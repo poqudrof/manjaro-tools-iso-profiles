@@ -320,6 +320,6 @@ testdisk #command line application for partition recovery
 sonar-common
 #extra kernel modules
 KERNEL-acpi_call
-KERNEL-tp-smapi
+KERNEL-tp_smapi
 KERNEL-rt3562sta
 
