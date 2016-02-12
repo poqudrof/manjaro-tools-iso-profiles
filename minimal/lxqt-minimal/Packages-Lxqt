@@ -4,7 +4,6 @@
 
 ###lxqt###
 lxqt
-manjaro-lxqt-minimal-settings
 
 >openrc networkmanager-openrc
 >systemd networkmanager
@@ -27,13 +26,19 @@ compton
 l3afpad
 xarchiver
 network-manager-applet
-tint2
 lxtask
 gvfs
 
 ###DisplayManager###
 >openrc sddm-consolekit
 >systemd sddm
+
+###Openbox###
+openbox
+obmenu-generator
+feh
+openbox-themes
+tint2
 
 ###Artwork###
 cantarell-fonts
@@ -42,12 +47,7 @@ maia-icon-theme
 gtk-theme-maia
 maia-wallpaper
 
-###Openbox###
-openbox
-obmenu-generator
-feh
-openbox-themes
-manjaro-openbox-minimal-settings
-
 manjaro-settings-manager
 manjaro-documentation
+
+manjaro-lxqt-minimal-settings
