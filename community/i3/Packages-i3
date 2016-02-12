@@ -36,8 +36,6 @@ scrot
 >openrc timeset
 >openrc ntp-openrc
 tree
-rxvt-unicode
-rxvt-unicode-terminfo
 urxvt-perls
 vi
 xarchiver-gtk2
@@ -49,7 +47,6 @@ xorg-xprop
 ## Applications
 arandr
 # bashmount (AUR)
-bmenu
 clipit
 dfc
 gcolor2
