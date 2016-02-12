@@ -42,3 +42,8 @@ networkmanager-dispatcher-ntpd
 ## full AUR Access
 # base-devel
 # yaourt
+
+## bmenu profiles should add it if required
+bmenu
+brandr
+mhwd-tui
