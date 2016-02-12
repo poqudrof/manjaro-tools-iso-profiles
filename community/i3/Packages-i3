@@ -5,6 +5,7 @@
 ## i3 Packages
 accountsservice
 #alternating-layouts
+bmenu
 compton
 conky-i3
 dmenu-manjaro
