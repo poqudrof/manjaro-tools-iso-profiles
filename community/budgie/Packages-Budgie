@@ -27,6 +27,7 @@ gucharmap
 mousetweaks
 mutter
 nautilus
+nautilus-empty-file
 file-roller
 sushi
 #smplayer
@@ -53,6 +54,7 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 numlockx
 network-manager-applet
+manjaro-budgie-settings
 
 ## Applications
 firefox
@@ -84,11 +86,15 @@ networkmanager-vpnc
 manjaro-artwork
 plymouth-theme-manjaro-extra-elegant
 adwaita-icon-theme
-evopop-icon-theme
-evopop-gtk-theme
-#arc-themes
-vertex-themes
-firefox-theme-adwaita
+#evopop-icon-theme
+#evopop-gtk-theme
+maia-icon-theme
+arc-themes
+arc-firefox-theme
+deepin-icon-theme
+#vertex-themes
+#firefox-theme-adwaita
+budgie-wallpapers
 
 ## Packages for Sound and Audio
 gst-libav
@@ -125,7 +131,7 @@ icedtea-web
 manjaro-printer
 
 ## Office
-#libreoffice-still
+libreoffice-fresh
 
 ## AUR Access
 autoconf
@@ -143,6 +149,5 @@ patch
 subversion
 yaourt
 
-manjaro-budgie-settings
-nautilus-empty-file
-budgie-wallpapers
+
+

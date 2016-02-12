@@ -319,5 +319,8 @@ testdisk #command line application for partition recovery
 # sonar docs and special desktop launchers
 sonar-common
 #extra kernel modules
-KERNEL_acpi_call
+KERNEL-acpi_call
+KERNEL-tp_smapi
+KERNEL-rt3562sta
 
+manjaro-base-skel

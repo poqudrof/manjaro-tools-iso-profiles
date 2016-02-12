@@ -9,4 +9,4 @@ calamares-dev			# new GUI installer of manjaro - kpmcore
 #calamares-exp			# new GUI installer of manjaro - experimental version
 thus
 #thus-dev
-#gparted
+gparted
