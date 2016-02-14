@@ -199,6 +199,10 @@ libreoffice-fresh
 libwpg #for wordperfect graphics formats
 coin-or-mp #for certain formulas in calc
 libmspub #for microsoft publisher formats
+pstoedit #for converting ps files into other vector formats
+libmythes #for the thesorus
+vigra #for improved c/c++ code editing
+libmspac #for microsoft compression formats
 unixodbc #for some database formats
 
 #command line document converter

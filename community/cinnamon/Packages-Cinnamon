@@ -6,7 +6,6 @@
 baobab
 blueberry
 cinnamon
-cinnamon-theme-minty
 dconf-editor
 evince
 ffmpegthumbnailer
@@ -66,6 +65,8 @@ pragha
 
 ## Artwork
 cinnamon-wallpapers
+flattr-icon-theme
+gtk-theme-numix-solarized
 maia-icon-theme
 menda-circle-icon-theme
 menda-themes
@@ -84,6 +85,7 @@ ttf-comfortaa
 exfat-utils
 fuse-exfat
 galculator
+gcolor2
 gparted
 gvfs-afc
 gvfs-google
