@@ -1,0 +1,127 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## Cinnamon
+cinnamon
+dconf-editor
+evince
+gksu
+manjaro-cinnamon-minimal-settings
+manjaro-firefox-settings
+mousepad
+nemo-fileroller
+nemo-preview
+nemo-python
+nemo-share
+screenfetch
+xdg-user-dirs-gtk
+
+## GNOME related stuff
+gnome-system-log
+file-roller
+eog
+gnome-keyring
+gnome-screenshot
+gnome-terminal
+gnome-vfs
+icon-naming-utils
+mousetweaks
+python2-gnomecanvas
+python2-gnomevfs
+python2-libgnome
+
+# needed
+python-ptyprocess
+python2-ptyprocess
+
+## Network
+netctl
+net-tools
+networkmanager-dispatcher-ntpd
+openresolv
+
+# internet
+firefox
+
+## Artwork
+maia-icon-theme
+plymouth-theme-manjaro-cinnamon
+vertex-maia-themes
+xcursor-simpleandsoft
+
+#Fonts
+cantarell-fonts
+ttf-droid
+ttf-comfortaa
+
+## Other Applications
+exfat-utils
+fuse-exfat
+galculator
+gcolor2
+gparted
+gvfs-afc
+gvfs-google
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+hexchat
+htop
+libgsf
+lightdm-gtk-greeter-settings
+manjaro-settings-manager
+manjaro-welcome
+nss
+numlockx
+openssh
+#p7zip
+parcellite
+pavucontrol
+udiskie
+udisks
+
+## Package management
+pamac
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+libdvdcss
+manjaro-alsa
+manjaro-pulse
+pulseaudio-bluetooth
+pulseaudio-ctl
+pulseaudio-gconf
+pulseaudio-zeroconf
+
+## Printing
+#manjaro-printer
+#system-config-printer
+
+## Office
+#libreoffice-fresh
+
+## AUR Access
+#autoconf
+#automake
+#binutils
+#bison
+#fakeroot
+#flex
+#gcc
+#git
+#libconfig
+#libtool
+#m4
+#make
+#patch
+#subversion
+#yaourt
