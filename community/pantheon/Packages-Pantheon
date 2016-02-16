@@ -40,7 +40,7 @@ gtk-theme-elementary-bzr
 
 ##Pantheon Shell
 plank-bzr
-gala-bzr-manjaro #patched file
+gala-bzr #solved in upstream
 #pantheon-default-settings
 pantheon-session-bzr
 slingshot-launcher-bzr

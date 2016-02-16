@@ -195,6 +195,15 @@ evince
 
 ## Office
 libreoffice-fresh
+#optional deps for libreoffice
+libwpg #for wordperfect graphics formats
+coin-or-mp #for certain formulas in calc
+libmspub #for microsoft publisher formats
+pstoedit #for converting ps files into other vector formats
+libmythes #for the thesorus
+vigra #for improved c/c++ code editing
+libmspack #for microsoft compression formats
+unixodbc #for some database formats
 
 #command line document converter
 unoconv
@@ -202,8 +211,6 @@ unoconv
 #windows  filesharing packages
 samba
 
-#graphical service manager
-systemd-ui
 
 #apple filing protocol support
 afpfs-ng
@@ -271,6 +278,7 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
+java-access-bridge #for java accessibility
 dasher #on screen keyboard
 
 ## Java
@@ -287,8 +295,6 @@ cabextract
 cpio
 lha
 
-#gui interface to grub
-grub-customizer
 
 #standard backup software
 deja-dup #main backup software
@@ -322,5 +328,3 @@ sonar-common
 KERNEL-acpi_call
 KERNEL-tp_smapi
 KERNEL-rt3562sta
-
-manjaro-base-skel
