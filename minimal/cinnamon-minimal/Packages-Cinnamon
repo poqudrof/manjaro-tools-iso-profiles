@@ -7,7 +7,7 @@ cinnamon
 dconf-editor
 evince
 gksu
-manjaro-cinnamon-minimal-settings
+manjaro-cinnamon-settings
 manjaro-firefox-settings
 mousepad
 nemo-fileroller
@@ -45,6 +45,7 @@ openresolv
 firefox
 
 ## Artwork
+artwork-cinnamon-minimal
 maia-icon-theme
 plymouth-theme-manjaro-cinnamon
 vertex-maia-themes
@@ -75,7 +76,6 @@ manjaro-welcome
 nss
 numlockx
 openssh
-#p7zip
 parcellite
 pavucontrol
 udiskie
@@ -101,27 +101,3 @@ pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-gconf
 pulseaudio-zeroconf
-
-## Printing
-#manjaro-printer
-#system-config-printer
-
-## Office
-#libreoffice-fresh
-
-## AUR Access
-#autoconf
-#automake
-#binutils
-#bison
-#fakeroot
-#flex
-#gcc
-#git
-#libconfig
-#libtool
-#m4
-#make
-#patch
-#subversion
-#yaourt
