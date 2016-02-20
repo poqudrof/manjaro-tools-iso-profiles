@@ -155,8 +155,8 @@ transmageddon  #for video formats
 soundconverter #for audio formats and video if all you want is the audio
 
 ## Package management
-gnome-software
-
+#gnome-software
+pamac
 #live image specifics
 #manjaro provided firmware
 manjaro-firmware
@@ -215,8 +215,6 @@ samba
 #apple filing protocol support
 afpfs-ng
 
-#exfat fuse module
-fuse-exfat
 
 #acpi package
 acpi
@@ -324,6 +322,9 @@ corebird
 #standard graphical partition management tools
 gparted #graphical
 gpart #for partition rescue via gparted
+#extra filesystem packages
+exfat-utils
+f2fs-tools
 testdisk #command line application for partition recovery
 
 # sonar docs and special desktop launchers
