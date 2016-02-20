@@ -215,9 +215,9 @@ samba
 #apple filing protocol support
 afpfs-ng
 
-#exfat fuse module
-fuse-exfat
 
+#xfat utils
+exfat-utils
 #acpi package
 acpi
 
