@@ -216,7 +216,7 @@ samba
 afpfs-ng
 
 
-acpi package
+#acpi package
 acpi
 
 ## Fonts
