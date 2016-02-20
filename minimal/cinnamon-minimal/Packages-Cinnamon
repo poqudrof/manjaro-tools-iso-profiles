@@ -3,13 +3,9 @@
 ######################################################
 
 ## Cinnamon
-baobab
-blueberry
 cinnamon
 dconf-editor
 evince
-ffmpegthumbnailer
-gimp
 gksu
 manjaro-cinnamon-settings
 manjaro-firefox-settings
@@ -21,21 +17,12 @@ nemo-share
 screenfetch
 xdg-user-dirs-gtk
 
- # java
-jre8-openjdk
-icedtea-web
-jre8-openjdk-headless
-
 ## GNOME related stuff
 gnome-system-log
 file-roller
 eog
-#eog-plugins
-gedit
-gnome-disk-utility
 gnome-keyring
 gnome-screenshot
-gnome-system-monitor
 gnome-terminal
 gnome-vfs
 icon-naming-utils
@@ -56,24 +43,12 @@ openresolv
 
 # internet
 firefox
-thunderbird
-
-## Extra
-npapi-vlc
-pidgin-libnotify
-pragha
 
 ## Artwork
-cinnamon-wallpapers
-flattr-icon-theme
-gtk-theme-numix-solarized
+artwork-cinnamon-minimal
 maia-icon-theme
-menda-circle-icon-theme
-menda-themes
-menda-themes-dark
 plymouth-theme-manjaro-cinnamon
 vertex-maia-themes
-xcursor-menda
 xcursor-simpleandsoft
 
 #Fonts
@@ -93,16 +68,14 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
 hexchat
-isousb
+htop
 libgsf
 lightdm-gtk-greeter-settings
-manjaro-documentation
 manjaro-settings-manager
 manjaro-welcome
 nss
 numlockx
 openssh
-p7zip
 parcellite
 pavucontrol
 udiskie
@@ -128,27 +101,3 @@ pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-gconf
 pulseaudio-zeroconf
-
-## Printing
-manjaro-printer
-system-config-printer
-
-## Office
-libreoffice-fresh
-
-## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
-gcc
-git
-libconfig
-libtool
-m4
-make
-patch
-subversion
-yaourt

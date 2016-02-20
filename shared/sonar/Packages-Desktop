@@ -199,6 +199,10 @@ libreoffice-fresh
 libwpg #for wordperfect graphics formats
 coin-or-mp #for certain formulas in calc
 libmspub #for microsoft publisher formats
+pstoedit #for converting ps files into other vector formats
+libmythes #for the thesorus
+vigra #for improved c/c++ code editing
+libmspack #for microsoft compression formats
 unixodbc #for some database formats
 
 #command line document converter
@@ -211,10 +215,8 @@ samba
 #apple filing protocol support
 afpfs-ng
 
-#exfat fuse module
-fuse-exfat
 
-#acpi package
+acpi package
 acpi
 
 ## Fonts
@@ -274,6 +276,7 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
+java-access-bridge #for java accessibility
 dasher #on screen keyboard
 
 ## Java
@@ -312,9 +315,16 @@ gnome-terminal
 gnucash #main program
 perl-date-manip #for stock quotes
 perl-finance-quote #for stock quotes
-#gui and graphical partition management tools
+#standard full disk encryption software
+veracrypt
+#standard twitter client
+corebird
+#standard graphical partition management tools
 gparted #graphical
 gpart #for partition rescue via gparted
+#extra filesystem packages
+exfat-utils
+f2fs-tools
 testdisk #command line application for partition recovery
 
 # sonar docs and special desktop launchers
