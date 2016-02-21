@@ -52,7 +52,7 @@ wingpanel-indicator-network-bzr
 wingpanel-indicator-power-bzr
 wingpanel-indicator-session-bzr
 wingpanel-indicator-sound-bzr
-wingpanel-indicator-launcher-bzr
+#wingpanel-indicator-launcher-bzr
 #pantheon-session-bzr
 pantheon-default-settings-bzr
 
