@@ -14,23 +14,23 @@ gksu
 manjaro-cinnamon-settings
 manjaro-firefox-settings
 mousepad
-nemo-fileroller
+nemo-fileroller # archiver
 nemo-preview
 nemo-python
 nemo-share
+pragha # musicplayer
 screenfetch
 xdg-user-dirs-gtk
 
- # java
+## java
 jre8-openjdk
 icedtea-web
 jre8-openjdk-headless
 
 ## GNOME related stuff
 gnome-system-log
-file-roller
 eog
-#eog-plugins
+eog-plugins
 gedit
 gnome-disk-utility
 gnome-keyring
@@ -54,14 +54,13 @@ net-tools
 networkmanager-dispatcher-ntpd
 openresolv
 
-# internet
+## Internet
 firefox
 thunderbird
 
 ## Extra
 npapi-vlc
 pidgin-libnotify
-pragha
 
 ## Artwork
 cinnamon-wallpapers
@@ -76,7 +75,7 @@ vertex-maia-themes
 xcursor-menda
 xcursor-simpleandsoft
 
-#Fonts
+## Fonts
 cantarell-fonts
 ttf-droid
 ttf-comfortaa
@@ -129,12 +128,10 @@ pulseaudio-ctl
 pulseaudio-gconf
 pulseaudio-zeroconf
 
-## Printing
-manjaro-printer
-system-config-printer
-
 ## Office
 libreoffice-fresh
+manjaro-printer
+system-config-printer
 
 ## AUR Access
 autoconf
