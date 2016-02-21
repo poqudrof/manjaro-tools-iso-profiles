@@ -155,8 +155,8 @@ transmageddon  #for video formats
 soundconverter #for audio formats and video if all you want is the audio
 
 ## Package management
-gnome-software
-
+#gnome-software
+pamac
 #live image specifics
 #manjaro provided firmware
 manjaro-firmware
@@ -216,7 +216,7 @@ samba
 afpfs-ng
 
 
-acpi package
+#acpi package
 acpi
 
 ## Fonts

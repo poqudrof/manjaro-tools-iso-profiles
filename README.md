@@ -8,14 +8,11 @@ manjaro-tools-iso-profiles
 ###### use this file in the profile ######
 ##########################################
 
-# possible values: openrc,systemd
-# initsys="systemd"
+# the dispplaymanager
+# displaymanager="lightdm"
 
 # use multilib packages; x86_64 only
 # multilib="true"
-
-# the dispplaymanager
-# displaymanager="lightdm"
 
 # Set to false to disable autologin in the livecd
 # autologin="true"
@@ -30,9 +27,6 @@ manjaro-tools-iso-profiles
 # pxe_boot="true"
 
 ################ install ################
-
-# unset defaults to given value
-# kernel="linux319"
 
 # unset defaults to given value
 # efi_boot_loader="grub"
@@ -68,12 +62,12 @@ manjaro-tools-iso-profiles
 # unset defaults to given values
 # names must match systemd service names
 # services in start_systemd array don't need to be listed here
-# start_systemd_live=('livecd' 'mhwd-live' 'pacman-init')
+# start_systemd_live=('manjaro-live' 'mhwd-live' 'pacman-init')
 
 # unset defaults to given values,
 # names must match openrc service names
 # services in start_openrc array don't need to be listed here
-# start_openrc_live=('livecd' 'mhwd-live' 'pacman-init')
+# start_openrc_live=('manjaro-live' 'mhwd-live' 'pacman-init')
 ~~~
 
 ######* New Packagelist tags
@@ -96,7 +90,7 @@ manjaro-tools-iso-profiles
 * Contains root image packages
 * ideally no xorg
 
-######* Packages-Custom/Desktop
+######* Packages-Custom
 * Contains the custom image packages
 * desktop environment packages go here
 * this file is joined at build time with shared/Packages-Desktop to pull in shared desktop packages
