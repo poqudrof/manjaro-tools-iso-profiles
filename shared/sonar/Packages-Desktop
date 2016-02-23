@@ -35,8 +35,6 @@ lm_sensors
 mediainfo #this package provides lots of audio and video format info to nautilus, format, bit rate, frames per second, etc.
 
 
-#command line web browser
-elinks
 
 
 #some useful cli apps
@@ -83,7 +81,7 @@ unrtf
 #mac filesystem utils
 hfsprogs
 
-#zfs filesystem support read only!
+#zfs filesystem support
 zfs-utils
 #thermal control daemon
 thermald
@@ -93,12 +91,6 @@ sane
 sane-gt68xx-firmware
 
 #standard media playing software
-brasero
-#extra addons for brasero
-libwmf
-dvdbackup
-dvdauthor
-openjpeg2
 rhythmbox #for music management.
 #swiss army knife of cli audio file manipulation
 sox
@@ -332,4 +324,4 @@ sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
-KERNEL-rt3562sta
+
