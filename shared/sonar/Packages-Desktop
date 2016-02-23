@@ -233,6 +233,7 @@ gvfs-nfs #nfs, networking filesystem, backend
 gvfs-smb #smb/cifs (windows filesharing) backend
 
 ## Network
+modemmanager
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
