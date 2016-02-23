@@ -91,12 +91,6 @@ sane
 sane-gt68xx-firmware
 
 #standard media playing software
-brasero
-#extra addons for brasero
-libwmf
-dvdbackup
-dvdauthor
-openjpeg2
 rhythmbox #for music management.
 #swiss army knife of cli audio file manipulation
 sox

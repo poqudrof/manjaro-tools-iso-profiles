@@ -97,6 +97,13 @@ evolution-ews
 
 #simple scanning utility, supposed to be in gnome extra but for some reason isn't
 simple-scan
+#cd burner
+brasero
+#extra addons for brasero
+libwmf
+dvdbackup
+dvdauthor
+openjpeg2
 #cd ripper
 sound-juicer
 
