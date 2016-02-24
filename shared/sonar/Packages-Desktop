@@ -271,8 +271,10 @@ qt-at-spi
 java-atk-wrapper
 java-access-bridge #for java accessibility
 dasher #on screen keyboard
-
-## Java
+ibus #input method support
+ibus-table #needed by some input methods
+ibus-table-extraphrase #extra table phrases, also needed by a few input methods
+##java
 icedtea-web
 
 ##Plymouth themes
