@@ -38,6 +38,7 @@ xcursor-breeze
 menda-circle-icon-theme
 console-solarized
 bspwm-wallpapers
+gtk-theme-maia
 
 ## Network
 networkmanager
@@ -99,8 +100,6 @@ htop
 mhwd-chroot
 ranger # The rest are ranger optdepends
 w3m
-sxiv
-sxiv-rifle
 atool
 poppler
 hibernator
