@@ -272,7 +272,7 @@ exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 # exec --no-startup-id blueman
 # exec_always --no-startup-id sbxkb
-exec --no-startup-id start_conky_live_grey
+exec --no-startup-id start_conky_live_solarized
 # exec --no-startup-id start_conky_live_green
 exec --no-startup-id manjaro-welcome
 

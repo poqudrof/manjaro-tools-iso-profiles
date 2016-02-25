@@ -22,6 +22,7 @@ hexchat
 htop
 i3exit
 i3-gaps
+i3-help
 i3status-manjaro
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -64,7 +65,8 @@ isousb
 libgpod # iPhone/Pod connectivity
 manjaro-welcome
 # eventually add upower-pm-utils; it seems to depend on DE features; take what works default is upower
->openrc upower-pm-utils
+# >openrc upower-pm-utils
+upower
 moc
 mousepad
 ncdu
@@ -110,7 +112,7 @@ awoken-icon-theme-light
 i3-theme-dark
 i3-theme-dust
 maia-icon-theme
-solarized-dark-themes
+gtk-theme-numix-solarized
 xcursor-chameleon-pearl
 xfce-theme-greenbird
 

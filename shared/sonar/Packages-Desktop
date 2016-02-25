@@ -35,8 +35,6 @@ lm_sensors
 mediainfo #this package provides lots of audio and video format info to nautilus, format, bit rate, frames per second, etc.
 
 
-#command line web browser
-elinks
 
 
 #some useful cli apps
@@ -83,7 +81,7 @@ unrtf
 #mac filesystem utils
 hfsprogs
 
-#zfs filesystem support read only!
+#zfs filesystem support
 zfs-utils
 #thermal control daemon
 thermald
@@ -93,12 +91,6 @@ sane
 sane-gt68xx-firmware
 
 #standard media playing software
-brasero
-#extra addons for brasero
-libwmf
-dvdbackup
-dvdauthor
-openjpeg2
 rhythmbox #for music management.
 #swiss army knife of cli audio file manipulation
 sox
@@ -155,8 +147,8 @@ transmageddon  #for video formats
 soundconverter #for audio formats and video if all you want is the audio
 
 ## Package management
-gnome-software
-
+#gnome-software
+pamac
 #live image specifics
 #manjaro provided firmware
 manjaro-firmware
@@ -215,8 +207,6 @@ samba
 #apple filing protocol support
 afpfs-ng
 
-#exfat fuse module
-fuse-exfat
 
 #acpi package
 acpi
@@ -243,6 +233,7 @@ gvfs-nfs #nfs, networking filesystem, backend
 gvfs-smb #smb/cifs (windows filesharing) backend
 
 ## Network
+modemmanager
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
@@ -280,8 +271,10 @@ qt-at-spi
 java-atk-wrapper
 java-access-bridge #for java accessibility
 dasher #on screen keyboard
-
-## Java
+ibus #input method support
+ibus-table #needed by some input methods
+ibus-table-extraphrase #extra table phrases, also needed by a few input methods
+##java
 icedtea-web
 
 ##Plymouth themes
@@ -317,9 +310,16 @@ gnome-terminal
 gnucash #main program
 perl-date-manip #for stock quotes
 perl-finance-quote #for stock quotes
-#gui and graphical partition management tools
+#standard full disk encryption software
+veracrypt
+#standard twitter client
+corebird
+#standard graphical partition management tools
 gparted #graphical
 gpart #for partition rescue via gparted
+#extra filesystem packages
+exfat-utils
+f2fs-tools
 testdisk #command line application for partition recovery
 
 # sonar docs and special desktop launchers
@@ -327,4 +327,4 @@ sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
-KERNEL-rt3562sta
+
