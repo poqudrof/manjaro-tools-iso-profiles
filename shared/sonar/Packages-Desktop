@@ -81,8 +81,6 @@ unrtf
 #mac filesystem utils
 hfsprogs
 
-#zfs filesystem support
-zfs-utils
 #thermal control daemon
 thermald
 
