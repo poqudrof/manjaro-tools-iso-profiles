@@ -17,25 +17,18 @@ libdeepin-webkit
 nautilus-empty-file
 
 ## deepin-extra packages
-deepin-movie
-deepin-music
 deepin-screenshot
 deepin-terminal
 
 ## other deepin Packages
-baobab
 dconf-editor
 downgrade
 evince
-evolution
 chromium
 deepin-trash
 galculator
-gimp
 gksu
-gnome-system-monitor
 gnome-vfs
-gparted
 gthumb
 gvfs-afc
 gvfs-gphoto2
@@ -43,11 +36,8 @@ gvfs-mtp # for mounting Samsung phones
 gvfs-smb
 hexchat
 htop
-isousb
 libimobiledevice
-libreoffice-fresh
 manjaro-deepin-settings
-manjaro-documentation
 manjaro-settings-manager
 manjaro-welcome
 mlocate
@@ -56,7 +46,6 @@ polkit-gnome
 screenfetch
 gufw # firewall
 xarchiver
-xfburn
 
 ## Network
 netctl
@@ -88,34 +77,3 @@ pulseaudio-zeroconf
 
 ## Package management
 pamac
-
-## Games
-deepin-game
-#steam-manjaro
-
-## Java
-jre8-openjdk
-jre8-openjdk-headless
-icedtea-web
-
-## Printing / Scanning
-manjaro-printer
-xsane
-xsane-gimp
-
-## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
-gcc
-git
-libconfig
-libtool
-m4
-make
-patch
-subversion
-yaourt
