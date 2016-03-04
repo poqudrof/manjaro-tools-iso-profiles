@@ -1,9 +1,9 @@
 ### General Packages
 
->openrc manjaro-livecd-openrc
->systemd manjaro-livecd-systemd
-manjaro-livecd-cli-installer
-manjaro-tools-base		# recovery chroot tools
+>openrc manjaro-live-openrc
+>systemd manjaro-live-systemd
+manjaro-live-skel		# live skel
+manjaro-cli-installer
 
 #calamares			# new GUI installer of manjaro
 #calamares-dev			# new GUI installer of manjaro - kpmcore
