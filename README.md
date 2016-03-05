@@ -4,35 +4,32 @@ manjaro-tools-iso-profiles
 ######* profile.conf
 
 ~~~
-##########################################
-###### use this file in the profile ######
-##########################################
-
-# the dispplaymanager
-# displaymanager="lightdm"
-
-# use multilib packages; x86_64 only
-# multilib="true"
+# default displaymanager: none
+# supported; lightdm, sddm, gdm, lxdm, mdm
+# displaymanager="none"
 
 # Set to false to disable autologin in the livecd
 # autologin="true"
 
-# use nonfree xorg drivers
+# use multilib packages; x86_64 only
+# multilib="true"
+
+# nonfree xorg drivers
 # nonfree_xorg="true"
 
-# use plymouth; initcpio hook
+# use plymouth
 # plymouth_boot="true"
 
-# use pxe boot; initcpio hook
+# use pxe
 # pxe_boot="true"
 
 ################ install ################
 
-# unset defaults to given value
+# possible values: grub;systemd-boot
 # efi_boot_loader="grub"
 
 # set uefi partition size
-# efi_part_size=32M
+# efi_part_size=31M
 
 # unset defaults to given value
 # plymouth_theme=manjaro-elegant
@@ -45,7 +42,7 @@ manjaro-tools-iso-profiles
 # names must match openrc service names
 # start_openrc=('acpid' 'bluetooth' 'consolekit' 'cronie' 'cupsd' 'dbus' 'syslog-ng' 'NetworkManager')
 
-################# livecd #################
+################# live-session #################
 
 # unset defaults to given value
 # hostname="manjaro"
