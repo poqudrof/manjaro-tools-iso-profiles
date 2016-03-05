@@ -9,6 +9,7 @@ lxqt
 >systemd networkmanager
 >openrc syslog-ng-openrc
 >systemd syslog-ng
+>openrc cronjobs
 
 ###apps###
 qterminal
@@ -41,11 +42,11 @@ openbox-themes
 tint2
 
 ###Artwork###
-cantarell-fonts
+#cantarell-fonts
 xcursor-breeze
 maia-icon-theme
-gtk-theme-maia
 maia-wallpaper
+vertex-maia-themes
 
 manjaro-settings-manager
 manjaro-documentation

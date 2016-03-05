@@ -276,4 +276,6 @@ partitionmanager
 ## Documentation
 manjaro-documentation
 
+## Settings packages
 manjaro-kde-settings
+manjaro-firefox-settings

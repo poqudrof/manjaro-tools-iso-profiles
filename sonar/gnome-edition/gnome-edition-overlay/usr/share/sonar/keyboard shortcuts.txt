@@ -1,4 +1,4 @@
-list of keyboard shortcuts in sonar gnu linux 2015.4
+list of keyboard shortcuts in sonar gnu linux 2016.03
 
 Sound and multimedia
 
