@@ -42,11 +42,11 @@ openbox-themes
 tint2
 
 ###Artwork###
-cantarell-fonts
+#cantarell-fonts
 xcursor-breeze
 maia-icon-theme
-gtk-theme-maia
 maia-wallpaper
+vertex-maia-themes
 
 manjaro-settings-manager
 manjaro-documentation
