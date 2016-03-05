@@ -2,50 +2,11 @@
 ### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
 ######################################################
 
-## Display Manager
->systemd sddm
->openrc sddm-consolekit
-sddm-kcm
+## Network
 >openrc networkmanager-openrc
 >openrc syslog-ng-openrc
 
-## Plasma5
-bluedevil
-breeze
-drkonqi
-kde-gtk-config
-kdeplasma-addons
-khelpcenter
-kinfocenter
-kio-extras
-kmenuedit
-kscreen
-ksshaskpass
-ksysguard
-kwin
-kwrited
-milou
-plasma-desktop
-plasma-nm
-plasma-pa
-plasma-workspace
-powerdevil
-systemsettings
-manjaro-kde-minimal-settings
-
-## Applications
-dolphin
-konsole
-kate
-qpdfview
-qupzilla
-kwrite
-octopi
-partitionmanager
-#gparted
-#manjaro-settings-manager
-kcm-msm
-manjaro-welcome
+## Libraries for Sound/Audio/Video
 >multilib manjaro-alsa
 
 ## Fonts
@@ -54,6 +15,44 @@ noto-fonts  # default font
 noto-fonts-emoji
 ttf-oxygen  # used for monospaced
 cantarell-fonts
+
+## Package management
+octopi
+octopi-notifier-frameworks
+
+## Display Manager
+>systemd sddm
+>openrc sddm-consolekit
+sddm-kcm
+
+## Plasma5
+bluedevil
+breeze
+drkonqi
+kde-gtk-config
+kdeplasma-addons
+kgamma5
+khelpcenter
+kinfocenter
+kmenuedit
+kscreen
+kscreenlocker
+ksshaskpass
+ksysguard
+kwallet-pam
+kwayland-integration
+kwin
+kwrited
+milou
+oxygen
+oxygen-cursors
+plasma-desktop
+plasma-nm
+plasma-pa
+plasma-workspace
+powerdevil
+systemsettings
+user-manager
 
 ## Themes
 plasma5-themes-maia
@@ -65,3 +64,22 @@ sddm-maia-theme
 breeze-gtk
 gnome-themes-standard # Adwaita theme
 gtk-theme-maia
+
+## KDE Applications
+ark
+dolphin
+konsole
+kate
+kwrite
+
+## Applications
+kcm-msm
+manjaro-welcome
+partitionmanager
+qpdfview
+qupzilla
+yakuake
+
+## Settings package
+manjaro-kde-minimal-settings
+manjaro-firefox-settings
