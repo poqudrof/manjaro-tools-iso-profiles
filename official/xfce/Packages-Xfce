@@ -111,16 +111,8 @@ blueman
 #thunar-shares-plugin-manjaro
 
 ## Artwork
-menda-circle-icon-theme
-faenza-green-icon-theme
-gtk-theme-ceti
-menda-themes
-menda-themes-dark
-gnome-themes-standard
-manjaro-artwork
-xfce-theme-greenbird
-plymouth-theme-manjaro-elegant
-xfce4-weather-plugin-menda-circle-icons
+>systemd plymouth-theme-manjaro-elegant
+manjaro-backgrounds
 
 ## Packages for Sound and Audio
 gst-libav
