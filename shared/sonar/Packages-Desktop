@@ -154,8 +154,6 @@ manjaro-hotfixes
 sonar-backgrounds
 #our isolinux branding
 sonar-isolinux
-#common between all sonar versions
-sonar-common
 #standard applications
 firefox
 thunderbird
@@ -166,7 +164,7 @@ pidgin
 
 #extra plugins for pidgin
 #purple-plugin-pack
-pidgin-otr
+pidgin-otr #off the record
 pidgin-sipe #office communicator
 pidgin-encryption #transparently encrypt outgoing messages using nss, similar to off the record
 
@@ -202,7 +200,6 @@ samba
 
 #apple filing protocol support
 afpfs-ng
-
 
 #acpi package
 acpi
