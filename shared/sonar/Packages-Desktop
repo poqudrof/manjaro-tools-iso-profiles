@@ -33,8 +33,6 @@ lm_sensors
 mediainfo #this package provides lots of audio and video format info to nautilus, format, bit rate, frames per second, etc.
 
 
-
-
 #some useful cli apps
 screen
 wget
@@ -98,6 +96,8 @@ vlc #for basic file playback, conversion, dvd and bluray playback
 gnome-sound-recorder #for basic sound recording
 #id3 tag libraries
 id3v2
+#audio metadata repair
+easytag
 
 #blu ray decryption
 libbluray
