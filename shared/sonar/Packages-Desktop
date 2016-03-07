@@ -325,4 +325,9 @@ sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
+Kernel-r8168
+Kernel-vhba-module
+
+#dos emulator, used to play old dos games
+dosemu
 
