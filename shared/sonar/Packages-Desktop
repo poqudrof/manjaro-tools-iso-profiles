@@ -1,7 +1,5 @@
 ## Artwork
 manjaro-backgrounds
-xcursor-simpleandsoft
-xcursor-vanilla-dmz-aa
 faenza-green-icon-theme
 numix-manjaro-themes
 
@@ -331,3 +329,8 @@ Kernel-vhba-module
 #dos emulator, used to play old dos games
 dosemu
 
+#xcursors
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+xcursor-chameleon-pearl
+xcursor-breeze
