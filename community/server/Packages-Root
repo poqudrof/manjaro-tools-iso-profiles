@@ -20,7 +20,6 @@ filesystem
 findutils
 gawk
 gcc-libs
->multilib gcc-libs-multilib
 gettext
 glibc
 grep
@@ -36,7 +35,7 @@ logrotate
 >systemd lvm2
 man-db
 man-pages
-manjaro-system
+#manjaro-system
 >openrc mdadm-openrc
 >systemd mdadm
 #mhwd
@@ -44,7 +43,6 @@ manjaro-system
 nano
 pacman
 pciutils
-#pcmciautils
 perl
 procps-ng
 psmisc
@@ -76,18 +74,16 @@ manjaro-firmware
 manjaro-release
 memtest86+
 mkinitcpio-nfs-utils
->multilib lib32-mesa  # Optional dependency for mhwd
 os-prober
 pkg-config
 sudo
-#syslinux
+syslinux
 
 ## Misc applications
 lsof
 >openrc rsync-openrc
 >systemd rsync
 wget
-#numlockx
 
 ## Compression utils
 lzop
@@ -113,29 +109,16 @@ nilfs-utils
 >systemd nfs-utils
 ntfs-3g
 sdparm
-#squashfs-tools
-smartmontools
 testdisk
 
 ## Network
-b43-fwcutter
-crda
 dhclient
 dnsmasq
 ethtool
 iptables
-ipw2100-fw
-ipw2200-fw
-iw
 nbd
-#KERNEL-ndiswrapper
-#ndiswrapper-utils
 rp-pppoe
 usb_modeswitch
-#wireless_tools
-#>openrc wpa_supplicant-openrc
-#>systemd wpa_supplicant
-zd1211-firmware
 
 ## Power management
 >openrc acpid-openrc
@@ -146,8 +129,3 @@ zd1211-firmware
 
 ## ucode for new cpus
 intel-ucode
-
-## bmenu profiles should add it if required -> issue 119
-#bmenu
-#brandr
-#mhwd-tui
