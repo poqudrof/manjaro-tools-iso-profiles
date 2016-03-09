@@ -55,7 +55,6 @@ gcolor2
 gksu
 gnome-vfs
 gparted
-gpicview
 gvfs # trash support and mounting volumes
 gvfs-afc
 gvfs-gphoto2
@@ -81,6 +80,7 @@ qpdfview-ps-plugin
 open-fuse-iso
 sbxkb
 speedtest-cli
+viewnior
 vlc
 w3m
 xterm
