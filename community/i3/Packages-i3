@@ -109,6 +109,7 @@ json-c			# for syslog-ng
 ## Artwork
 artwork-i3
 awoken-icon-theme-light
+console-solarized
 i3-theme-dark
 i3-theme-dust
 maia-icon-theme
