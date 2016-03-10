@@ -28,3 +28,4 @@ unset MANPATH
 BROWSER=/usr/bin/elinks
 #export dialog option for better speakup readability of the cli installer
 export DIALOGOPTS=--visit-items
+export TERM=linux
