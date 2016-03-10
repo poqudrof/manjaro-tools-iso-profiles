@@ -154,6 +154,8 @@ manjaro-hotfixes
 sonar-backgrounds
 #our isolinux branding
 sonar-isolinux
+#our installer branding
+sonar-calamares-branding
 #standard applications
 firefox
 thunderbird
