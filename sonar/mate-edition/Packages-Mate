@@ -57,7 +57,7 @@ network-manager-applet
 ## Applications
 #our desktop settings
 sonar-mate-settings
-isousb
+gnome-disk-utility
 udiskie
 udisks
 udisks2
@@ -101,4 +101,4 @@ freerdp
 libvncserver
 x2goserver
 x2goclient
-open-fuse-iso
+
