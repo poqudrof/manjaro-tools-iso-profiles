@@ -229,6 +229,7 @@ gvfs-smb #smb/cifs (windows filesharing) backend
 
 ## Network
 modemmanager
+modem-manager-gui
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
