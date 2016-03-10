@@ -2,9 +2,8 @@
 
 #artwork
 vertex-themes
-vertex-icons-git
-moka-icon-theme-git
-faba-mono-icons-git
+vertex-maia-themes
+moka-icon-theme
 
 uriparser
 #login dm
