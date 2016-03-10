@@ -1,5 +1,10 @@
 ### Sonar mate Packages
 
+#artwork
+vertex-themes
+vertex-icons-git
+moka-icon-theme-git
+faba-mono-icons-git
 
 uriparser
 #login dm
@@ -48,7 +53,7 @@ mate-applet-lockkeys
 mate-applet-streamer
 #mate system tools
 system-tools-backends
-
+mate-accountsdialog
 network-manager-applet
 ## Applications
 #our desktop settings
