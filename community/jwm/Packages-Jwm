@@ -65,12 +65,12 @@ arandr
 lxinput
 
 ## Artwork, Icon, Mouse, and Desktop Themes
-gtk-theme-stylishdark
-jwm-documentation
+gtk-engine-murrine
+xcursor-vanilla-dmz-aa
 jwm-wallpapers
+gtk-theme-stylishdark
 ultraflatorange-icon-theme
 xcursor-rezowhite
-xcursor-vanilla-dmz-aa
 
 ## Applications
 abiword-gtk2
@@ -120,3 +120,4 @@ yaourt
 
 ## Documentation
 manjaro-documentation
+jwm-documentation
