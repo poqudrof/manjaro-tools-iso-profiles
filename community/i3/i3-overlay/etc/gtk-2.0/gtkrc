@@ -1,0 +1,7 @@
+#
+# /etc/gtk-2.0/gtkrc
+#
+
+gtk-icon-theme-name = "AwOken"
+gtk-theme-name = "Numix Solarized"
+gtk-font-name = "Cantarell 10"
