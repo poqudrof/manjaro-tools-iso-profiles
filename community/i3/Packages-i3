@@ -8,7 +8,6 @@ accountsservice
 bmenu
 compton
 conky-i3
-dmenu-manjaro
 downgrade
 dunst
 ffmpeg
@@ -20,11 +19,8 @@ gufw # firewall
 >openrc ufw-openrc
 hexchat
 htop
-i3exit
-i3-gaps
-i3-help
+i3-scripts
 i3-scrot
-i3status-manjaro
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 lxappearance
@@ -108,14 +104,10 @@ networkmanager-vpnc
 json-c			# for syslog-ng
 
 ## Artwork
-artwork-i3
-awoken-icon-theme-light
 console-solarized
 i3-theme-dark
 i3-theme-dust
 maia-icon-theme
-gtk-theme-numix-solarized
-xcursor-chameleon-pearl
 xfce-theme-greenbird
 
 ## Audio Packages
