@@ -65,10 +65,7 @@ gvfs-mtp
 gvfs-smb
 manjaro-welcome
 open-fuse-iso
-gnome-shell-extension-dash-to-dock
-gnome-shell-extension-gnomenu
-gnome-shell-extension-mediaplayer
-gnome-shell-extension-openweather
+#gnome-shell-extension now set in desktop settings
 
 ## Network
 netctl
@@ -80,11 +77,9 @@ blueman
 ## Artwork
 manjaro-artwork
 plymouth-theme-manjaro-elegant
-arc-themes
-arc-firefox-theme
 manjaro-firefox-settings
-deepin-icon-theme
-moka-icon-theme
+maia-icon-theme
+vertex-maia-themes
 
 ## Packages for Sound and Audio
 gst-libav
