@@ -40,7 +40,7 @@ mediainfo #this package provides lots of audio and video format info to nautilus
 #some useful cli apps
 screen
 wget
-youtube-viewer
+gtk-youtube-viewer
 youtube-dl
 
 #bluetooth support
