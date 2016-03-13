@@ -7,7 +7,7 @@ moka-icon-theme
 
 uriparser
 #login dm
-lightdm
+#lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 #mate group
