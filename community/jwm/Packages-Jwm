@@ -94,7 +94,7 @@ lxmusic
 manjaro-settings-manager
 medit
 palemoon-bin
-manjaro-firefox-settings
+manjaro-browser-settings
 sakura
 screenfetch
 smplayer
@@ -126,3 +126,5 @@ yaourt
 ## Documentation
 manjaro-documentation
 jwm-documentation
+
+lightdm-gtk-greeter
