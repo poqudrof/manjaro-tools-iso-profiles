@@ -76,7 +76,7 @@ blueman
 
 ## Artwork
 manjaro-artwork
-plymouth-theme-manjaro-elegant
+plymouth-theme-manjaro-gnome
 maia-icon-theme
 vertex-maia-themes
 
@@ -90,7 +90,7 @@ gstreamer0.10-bad-plugins
 gstreamer0.10-base-plugins
 gstreamer0.10-good-plugins
 gstreamer0.10-ugly-plugins
-flashplugin
+#flashplugin
 libdvdcss
 manjaro-alsa
 manjaro-pulse
@@ -106,12 +106,12 @@ polkit-gnome
 #steam-manjaro
 
 ## Java
-jre8-openjdk
-jre8-openjdk-headless
-icedtea-web
+#jre8-openjdk
+#jre8-openjdk-headless
+#icedtea-web
 
 ## Printing
-manjaro-printer
+#manjaro-printer
 
 ## Office
 #libreoffice-still
