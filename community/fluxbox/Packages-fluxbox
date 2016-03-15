@@ -27,7 +27,7 @@ xfce4-notifyd
 xorg-xkill
 
 ## Applications
-abiword
+abiword-gtk2 # until flickering-bug in abiword is fixed
 arandr
 claws-mail
 clipit
@@ -95,7 +95,7 @@ fluxbox-theme-manjaro
 fluxbox-wallpapers
 menda-themes-dark
 numix-reborn-suite
-plymouth-theme-manjaro-circle
+# plymouth-theme-manjaro-circle
 xcursor-chameleon-pearl
 xcursor-menda
 xfce-theme-greenbird
