@@ -6,7 +6,7 @@ vertex-themes
 vertex-maia-themes
 moka-icon-theme
 numix-reborn-suite
-
+gnome-wallpapers
 #finger print support
 fprintd
 thinkfinger
@@ -40,7 +40,7 @@ mediainfo #this package provides lots of audio and video format info to nautilus
 #some useful cli apps
 screen
 wget
-gtk-youtube-viewer
+youtube-viewer
 youtube-dl
 
 #bluetooth support
