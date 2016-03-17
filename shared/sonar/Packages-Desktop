@@ -1,10 +1,12 @@
 ## Artwork
 manjaro-backgrounds
-xcursor-simpleandsoft
-xcursor-vanilla-dmz-aa
 faenza-green-icon-theme
 numix-manjaro-themes
-
+vertex-themes
+vertex-maia-themes
+moka-icon-theme
+numix-reborn-suite
+gnome-wallpapers
 #finger print support
 fprintd
 thinkfinger
@@ -33,8 +35,6 @@ openssh
 lm_sensors
 #media info package
 mediainfo #this package provides lots of audio and video format info to nautilus, format, bit rate, frames per second, etc.
-
-
 
 
 #some useful cli apps
@@ -100,6 +100,8 @@ vlc #for basic file playback, conversion, dvd and bluray playback
 gnome-sound-recorder #for basic sound recording
 #id3 tag libraries
 id3v2
+#audio metadata repair
+easytag
 
 #blu ray decryption
 libbluray
@@ -156,8 +158,8 @@ manjaro-hotfixes
 sonar-backgrounds
 #our isolinux branding
 sonar-isolinux
-#common between all sonar versions
-sonar-common
+#our installer branding
+sonar-calamares-branding
 #standard applications
 firefox
 thunderbird
@@ -168,7 +170,7 @@ pidgin
 
 #extra plugins for pidgin
 #purple-plugin-pack
-pidgin-otr
+pidgin-otr #off the record
 pidgin-sipe #office communicator
 pidgin-encryption #transparently encrypt outgoing messages using nss, similar to off the record
 
@@ -205,7 +207,6 @@ samba
 #apple filing protocol support
 afpfs-ng
 
-
 #acpi package
 acpi
 
@@ -232,6 +233,7 @@ gvfs-smb #smb/cifs (windows filesharing) backend
 
 ## Network
 modemmanager
+modem-manager-gui
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
@@ -325,4 +327,14 @@ sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
+#Kernel-r8168
+#Kernel-vhba-module
 
+#dos emulator, used to play old dos games
+dosemu
+
+#xcursors
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+xcursor-chameleon-pearl
+xcursor-breeze

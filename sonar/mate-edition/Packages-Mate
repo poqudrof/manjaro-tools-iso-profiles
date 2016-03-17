@@ -1,10 +1,8 @@
 ### Sonar mate Packages
 
-
 uriparser
 #login dm
-#lightdm
-gdm
+lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 #mate group
@@ -47,22 +45,19 @@ pluma
 #mate applets
 mate-applet-lockkeys
 mate-applet-streamer
+mate-applets
 #mate system tools
 system-tools-backends
-
+mate-accountsdialog
 network-manager-applet
 ## Applications
 #our desktop settings
 sonar-mate-settings
-#our installer branding
-#sonar-calamares-branding-mate
-isousb
+gnome-disk-utility
 udiskie
 udisks
 udisks2
 
-#accessibility
-notify-osd
 
 #yelp tool for reading the help files
 yelp

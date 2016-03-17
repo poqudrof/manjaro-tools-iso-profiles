@@ -3,9 +3,7 @@
 ######################################################
 
 ## Budgie packages
-
 lightdm
-#gnome-session
 budgie-desktop
 baobab
 dconf-editor
@@ -45,8 +43,6 @@ ibus
 alacarte
 
 ## Main Packages
-#plank
-#plank-config
 gnome-tweak-tool
 gufw # firewall
 manjaro-settings-manager
@@ -58,13 +54,11 @@ manjaro-budgie-settings
 
 ## Applications
 firefox
-#thunderbird
 sylpheed
 gimp
 gksu
 gparted
 gvfs-afc
-#gvfs-afp
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
@@ -84,16 +78,12 @@ networkmanager-vpnc
 
 ## Artwork
 manjaro-artwork
-plymouth-theme-manjaro-extra-elegant
+plymouth-theme-manjaro-fancy-budgie
 adwaita-icon-theme
-#evopop-icon-theme
-#evopop-gtk-theme
 maia-icon-theme
 arc-themes
 arc-firefox-theme
-deepin-icon-theme
-#vertex-themes
-#firefox-theme-adwaita
+manjaro-browser-settings
 budgie-wallpapers
 
 ## Packages for Sound and Audio
@@ -116,8 +106,6 @@ pulseaudio-zeroconf
 
 ## Package management
 pamac
-#polkit-gnome
-#lxsession
 
 ## Games
 steam-manjaro
