@@ -104,6 +104,7 @@ networkmanager-vpnc
 json-c			# for syslog-ng
 
 ## Artwork
+conky-i3
 console-solarized
 i3-theme-dark
 i3-theme-dust
