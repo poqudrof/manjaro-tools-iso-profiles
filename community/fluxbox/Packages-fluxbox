@@ -48,6 +48,7 @@ gvfs-mtp # for mounting Samsung phones
 gvfs-smb
 hexchat
 htop
+i3-scrot
 isousb
 libgpod # iPhone/Pod connectivity
 lxmusic
