@@ -1,9 +1,0 @@
->openrc manjaro-live-openrc
->systemd manjaro-live-systemd
-#manjaro-cli-installer
-nanjaro-live-skel
-#calamares			# new GUI installer of manjaro
-calamares-dev			# new GUI installer of manjaro - kpmcore
-#thus
-#thus-dev
-#gparted
