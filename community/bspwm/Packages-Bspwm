@@ -62,18 +62,21 @@ dunst
 libnotify
 compton
 i3lock
+bspwm-ruler
 
 ##Applications
 
 ##Desktop 
 spacefm
 udevil
-midori
+epiphany
 gedit
 file-roller
 gnome-disk-utility
 lxappearance-gtk3
 gufw
+zathura-pdf-poppler
+
 
 ##terminal
 #rxvt-unicode
