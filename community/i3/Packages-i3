@@ -59,6 +59,7 @@ gvfs-mtp # for mounting Samsung phones
 gvfs-smb
 isousb
 libgpod # iPhone/Pod connectivity
+manjaro-browser-settings
 manjaro-welcome
 # eventually add upower-pm-utils; it seems to depend on DE features; take what works default is upower
 # >openrc upower-pm-utils
