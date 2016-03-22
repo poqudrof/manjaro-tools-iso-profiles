@@ -27,6 +27,7 @@ baobab
 dconf-editor
 downgrade
 evince
+poppler-data # CKJ support for pdf
 evolution
 chromium
 deepin-trash

@@ -75,6 +75,7 @@ pinta
 qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
+poppler-data # CKJ support for pdf
 open-fuse-iso
 sbxkb
 speedtest-cli

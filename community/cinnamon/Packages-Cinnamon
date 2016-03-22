@@ -8,6 +8,7 @@ blueberry
 cinnamon
 dconf-editor
 evince
+poppler-data # CKJ support for pdf
 ffmpegthumbnailer
 gimp
 gksu

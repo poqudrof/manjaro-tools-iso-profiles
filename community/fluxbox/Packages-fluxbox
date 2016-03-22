@@ -63,6 +63,9 @@ pcmanfm
 perl-file-mimeinfo
 pinta
 qpdfview
+qpdfview-djvu-plugin
+qpdfview-ps-plugin
+poppler-data # CKJ support for pdf
 sbxkb
 scrot
 simple-scan
