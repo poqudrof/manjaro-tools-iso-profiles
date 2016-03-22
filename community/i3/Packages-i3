@@ -4,7 +4,6 @@
 
 ## i3 Packages
 accountsservice
-#alternating-layouts
 bmenu
 compton
 conky-i3
@@ -19,9 +18,7 @@ gufw # firewall
 >openrc ufw-openrc
 hexchat
 htop
-i3-scripts
 i3-scrot
-lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 lxappearance
 manjaro-i3-settings
@@ -31,7 +28,6 @@ p7zip
 polkit-gnome
 ranger
 screenfetch
-scrot
 >openrc timeset
 >openrc ntp-openrc
 tree
@@ -45,7 +41,6 @@ xorg-xprop
 
 ## Applications
 arandr
-# bashmount (AUR)
 clipit
 dfc
 gcolor2
@@ -67,12 +62,10 @@ upower
 moc
 mousepad
 ncdu
-nitrogen
 palemoon-bin
 perl-file-mimeinfo
 pcmanfm
 pinta
-qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
 poppler-data # CKJ support for pdf
@@ -85,13 +78,12 @@ w3m
 xterm
 
 ## Network
->openrc bluez-openrc
 blueman
+>openrc bluez-openrc
 >systemd netctl
 >systemd networkmanager
 >openrc networkmanager-openrc
 network-manager-applet
->openrc networkmanager-consolekit
 networkmanager-dispatcher-ntpd
 >systemd networkmanager-openconnect
 networkmanager-openvpn
@@ -101,12 +93,11 @@ networkmanager-openvpn
 >systemd networkmanager-pptp
 networkmanager-vpnc
 >systemd openresolv
->openrc syslog-ng-openrc
 >systemd syslog-ng
 json-c			# for syslog-ng
+>openrc syslog-ng-openrc
 
 ## Artwork
-conky-i3
 console-solarized
 i3-theme-dark
 i3-theme-dust
@@ -154,4 +145,3 @@ make
 patch
 subversion
 yaourt
-
