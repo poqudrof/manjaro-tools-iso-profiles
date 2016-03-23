@@ -82,6 +82,7 @@ pulseaudio-zeroconf
 
 ## Package management
 pamac
+yaourt
 
 ## Games
 deepin-game

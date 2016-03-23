@@ -124,24 +124,11 @@ volumeicon
 
 ## Package management
 pamac
+yaourt
 
 ## Printing
 manjaro-printer
 >openrc cups-openrc
 
 ## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
-gcc
-git
-libconfig
-libtool
-m4
-make
-patch
-subversion
-yaourt
+base-devel
