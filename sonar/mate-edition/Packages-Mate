@@ -3,8 +3,9 @@
 uriparser
 #login dm
 #lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
+gdm
 #mate group
 
 marco
@@ -29,7 +30,6 @@ engrampa
 eom
 galculator-gtk2
 mate-applets
-mate-disk-utility
 mate-icon-theme-faenza
 mate-media
 mate-netspeed
@@ -45,7 +45,6 @@ pluma
 #mate applets
 mate-applet-lockkeys
 mate-applet-streamer
-mate-applets
 #mate system tools
 system-tools-backends
 mate-accountsdialog
@@ -86,8 +85,6 @@ sonar-backgrounds
 
 #standard media playing software.
 libgpod #for management of apple iPod, iPhone, etc devices
-asunder #lightweight cd ripper
-xfburn #light weight disk burner
 #mate tweak tool
 mate-tweak
 
@@ -97,4 +94,4 @@ freerdp
 libvncserver
 x2goserver
 x2goclient
-
+nxproxy

@@ -92,6 +92,7 @@ pidgin
 qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
+poppler-data  # CKJ support for pdf
 thunderbird
 viewnior
 vlc

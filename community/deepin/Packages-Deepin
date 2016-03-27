@@ -1,16 +1,9 @@
-
 ######################################################
 ### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
 ######################################################
 
 ## deepin packages
-deepin-account-faces
-deepin-control-center
-deepin-daemon
-deepin-desktop
-deepin-dock
 deepin-gtk-theme
-deepin-launcher
 deepin-manjaro
 deepin-social-sharing
 libdeepin-webkit
@@ -27,9 +20,9 @@ baobab
 dconf-editor
 downgrade
 evince
+poppler-data # CKJ support for pdf
 evolution
 chromium
-deepin-trash
 galculator
 gimp
 gksu
@@ -89,6 +82,7 @@ pulseaudio-zeroconf
 
 ## Package management
 pamac
+yaourt
 
 ## Games
 deepin-game
@@ -105,18 +99,4 @@ xsane
 xsane-gimp
 
 ## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
-gcc
-git
-libconfig
-libtool
-m4
-make
-patch
-subversion
-yaourt
+base-devel

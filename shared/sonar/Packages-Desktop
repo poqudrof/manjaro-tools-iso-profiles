@@ -1,5 +1,7 @@
 ## Artwork
 manjaro-backgrounds
+breeze-gtk
+breeze-icons
 faenza-green-icon-theme
 numix-manjaro-themes
 vertex-themes
@@ -109,6 +111,9 @@ libaacs
 #dvd decryption
 libdvdcss
 
+#standard cd burning and ripping software
+brasero #for burning, disk copy, etc
+sound-juicer #for cd ripping
 #codecs
 gst-libav
 gst-plugins-bad

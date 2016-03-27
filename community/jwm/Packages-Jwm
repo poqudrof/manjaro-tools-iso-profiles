@@ -68,13 +68,7 @@ arandr
 lxinput
 
 ## Artwork, Icon, Mouse, and Desktop Themes
-gtk-engine-murrine
 xcursor-vanilla-dmz-aa
-jwm-artwork
-jwm-wallpapers
-gtk-theme-stylishdark
-ultraflatorange-icon-theme
-xcursor-rezowhite
 
 ## Applications
 abiword-gtk2
@@ -104,7 +98,6 @@ imagewriter
 ## Fonts
 adobe-source-sans-pro-fonts
 ttf-droid
-cantarell-fonts
 
 ## AUR Access
 autoconf

@@ -48,6 +48,7 @@ gvfs-mtp # for mounting Samsung phones
 gvfs-smb
 hexchat
 htop
+i3-scrot
 isousb
 libgpod # iPhone/Pod connectivity
 lxmusic
@@ -62,6 +63,9 @@ pcmanfm
 perl-file-mimeinfo
 pinta
 qpdfview
+qpdfview-djvu-plugin
+qpdfview-ps-plugin
+poppler-data # CKJ support for pdf
 sbxkb
 scrot
 simple-scan
@@ -95,7 +99,7 @@ fluxbox-theme-manjaro
 fluxbox-wallpapers
 menda-themes-dark
 numix-reborn-suite
-# plymouth-theme-manjaro-circle
+plymouth-theme-manjaro-circle
 xcursor-chameleon-pearl
 xcursor-menda
 xfce-theme-greenbird
