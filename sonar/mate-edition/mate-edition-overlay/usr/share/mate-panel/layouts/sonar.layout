@@ -1,0 +1,90 @@
+[Toplevel bottom]
+orientation=bottom
+expand=true
+size=30
+y-bottom=0
+
+[Object menu]
+locked=true
+object-type=menu
+panel-right-stick=false
+position=0
+toplevel-id=bottom
+
+[Object launcher]
+launcher-location=/usr/share/applications/firefox.desktop
+locked=true
+menu-path=applications:/
+object-type=launcher
+panel-right-stick=false
+position=35
+toplevel-id=bottom
+
+[Object launcher]
+launcher-location=/usr/share/applications/caja-browser.desktop
+locked=true
+object-type=launcher
+panel-right-stick=false
+position=64
+toplevel-id=bottom
+
+[Object launcher]
+launcher-location=/usr/share/applications/gnome-terminal.desktop
+locked=true
+object-type=launcher
+panel-right-stick=false
+position=96
+toplevel-id=bottom
+
+[Object separator]
+object-type=separator
+locked=true
+panel-right-stick=false
+position=120
+toplevel-id=bottom
+
+[Object windowlistapplet]
+applet-iid=WnckletFactory::WindowListApplet
+locked=true
+object-type=applet
+panel-right-stick=false
+position=130
+toplevel-id=bottom
+
+[Object separator]
+object-type='separator'
+panel-right-stick=true
+position=558
+toplevel-id='bottom'
+
+[Object showdesktopapplet]
+applet-iid=WnckletFactory::ShowDesktopApplet
+locked=true
+object-type=applet
+panel-right-stick=true
+position=425
+toplevel-id=bottom
+
+[Object workspaceswitcherapplet]
+applet-iid=WnckletFactory::WorkspaceSwitcherApplet
+locked=true
+object-type=applet
+panel-right-stick=true
+position=405
+toplevel-id=bottom
+
+[Object clockapplet]
+applet-iid=ClockAppletFactory::ClockApplet
+locked=true
+object-type=applet
+panel-right-stick=true
+position=274
+toplevel-id=bottom
+
+[Object notificationarea]
+applet-iid=NotificationAreaAppletFactory::NotificationArea
+locked=true
+object-type=applet
+panel-right-stick=true
+position=1
+toplevel-id=bottom
