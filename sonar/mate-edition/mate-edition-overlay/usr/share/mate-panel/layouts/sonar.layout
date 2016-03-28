@@ -16,39 +16,11 @@ toplevel-id=bottom
 position=35
 locked=true
 
-[Object launcher]
-object-type=launcher
-launcher-location=/usr/share/applications/caja-browser.desktop
-toplevel-id=bottom
-position=64
-locked=true
-
-[Object launcher]
-object-type=launcher
-launcher-location=/usr/share/applications/gnome-terminal.desktop
-toplevel-id=bottom
-position=96
-locked=true
-
-[Object separator]
-object-type=separator
-toplevel-id=bottom
-position=120
-locked=true
-
 [Object windowlistapplet]
 object-type=applet
 applet-iid=WnckletFactory::WindowListApplet
 toplevel-id=bottom
-position=130
-locked=true
-
-[Object separator]
-object-type='separator'
-toplevel-id='bottom'
-position=558
-panel-right-stick=true
-locked=true
+position=64
 
 [Object showdesktopapplet]
 object-type=applet
