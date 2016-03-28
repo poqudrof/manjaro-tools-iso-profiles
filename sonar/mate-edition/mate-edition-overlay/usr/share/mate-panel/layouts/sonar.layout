@@ -1,90 +1,83 @@
 [Toplevel bottom]
-orientation=bottom
 expand=true
+orientation=bottom
 size=30
-y-bottom=0
 
 [Object menu]
-locked=true
 object-type=menu
-panel-right-stick=false
+toplevel-id=bottom
 position=0
-toplevel-id=bottom
+locked=true
 
 [Object launcher]
+object-type=launcher
 launcher-location=/usr/share/applications/firefox.desktop
-locked=true
-menu-path=applications:/
-object-type=launcher
-panel-right-stick=false
+toplevel-id=bottom
 position=35
-toplevel-id=bottom
+locked=true
 
 [Object launcher]
+object-type=launcher
 launcher-location=/usr/share/applications/caja-browser.desktop
-locked=true
-object-type=launcher
-panel-right-stick=false
-position=64
 toplevel-id=bottom
+position=64
+locked=true
 
 [Object launcher]
-launcher-location=/usr/share/applications/gnome-terminal.desktop
-locked=true
 object-type=launcher
-panel-right-stick=false
-position=96
+launcher-location=/usr/share/applications/gnome-terminal.desktop
 toplevel-id=bottom
+position=96
+locked=true
 
 [Object separator]
 object-type=separator
-locked=true
-panel-right-stick=false
-position=120
 toplevel-id=bottom
+position=120
+locked=true
 
 [Object windowlistapplet]
-applet-iid=WnckletFactory::WindowListApplet
-locked=true
 object-type=applet
-panel-right-stick=false
-position=130
+applet-iid=WnckletFactory::WindowListApplet
 toplevel-id=bottom
+position=130
+locked=true
 
 [Object separator]
 object-type='separator'
-panel-right-stick=true
-position=558
 toplevel-id='bottom'
+position=558
+panel-right-stick=true
+locked=true
 
 [Object showdesktopapplet]
-applet-iid=WnckletFactory::ShowDesktopApplet
-locked=true
 object-type=applet
-panel-right-stick=true
-position=425
+applet-iid=WnckletFactory::ShowDesktopApplet
 toplevel-id=bottom
+position=425
+panel-right-stick=true
+locked=true
 
 [Object workspaceswitcherapplet]
-applet-iid=WnckletFactory::WorkspaceSwitcherApplet
-locked=true
 object-type=applet
-panel-right-stick=true
-position=405
+applet-iid=WnckletFactory::WorkspaceSwitcherApplet
 toplevel-id=bottom
+position=405
+panel-right-stick=true
+locked=true
 
 [Object clockapplet]
-applet-iid=ClockAppletFactory::ClockApplet
-locked=true
 object-type=applet
-panel-right-stick=true
-position=274
+applet-iid=ClockAppletFactory::ClockApplet
 toplevel-id=bottom
+position=274
+panel-right-stick=true
+locked=true
 
 [Object notificationarea]
-applet-iid=NotificationAreaAppletFactory::NotificationArea
-locked=true
 object-type=applet
-panel-right-stick=true
-position=1
+applet-iid=NotificationAreaAppletFactory::NotificationArea
 toplevel-id=bottom
+position=1
+panel-right-stick=true
+locked=true
