@@ -272,7 +272,8 @@ orca
 #library for orca plugins
 libpeas
 speech-dispatcher
-brltty
+#brltty is now pulled in by manjaro-live-skel, but keeping it hear in case it's needed #again in the future
+#brltty
 eviacam
 open-dyslexic-fonts
 qt-at-spi
