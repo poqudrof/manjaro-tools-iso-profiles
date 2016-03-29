@@ -34,8 +34,10 @@ screenfetch
 tree
 urxvt-perls
 vi
+wmutils
 xarchiver-gtk2
 xautolock
+xdotool
 xfce4-power-manager
 xorg-xkill
 xorg-xprop
