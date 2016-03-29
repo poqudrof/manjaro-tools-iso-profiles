@@ -67,6 +67,8 @@ pulseaudio-xen
 
 #Sound theme support
 sound-theme-freedesktop
+sonar-sound-theme
+
 
 ## Printing
 manjaro-printer
