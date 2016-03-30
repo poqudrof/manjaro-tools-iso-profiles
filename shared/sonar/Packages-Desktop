@@ -116,7 +116,7 @@ libdvdcss
 
 #standard cd burning and ripping software
 brasero #for burning, disk copy, etc
-sound-juicer #for cd ripping
+asunder #for cd ripping
 #codecs
 gst-libav
 gst-plugins-bad
