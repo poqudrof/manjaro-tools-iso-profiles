@@ -24,6 +24,7 @@ lxappearance
 manjaro-i3-settings
 manjaro-settings-manager
 mlocate
+morc_menu
 p7zip
 polkit-gnome
 ranger
@@ -33,8 +34,10 @@ screenfetch
 tree
 urxvt-perls
 vi
+wmutils
 xarchiver-gtk2
 xautolock
+xdotool
 xfce4-power-manager
 xorg-xkill
 xorg-xprop
