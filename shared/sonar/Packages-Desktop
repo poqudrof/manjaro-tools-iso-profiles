@@ -45,7 +45,7 @@ screen
 wget
 youtube-viewer
 youtube-dl
-
+dictd #command line dictionary
 #bluetooth support
 bluez-firmware
 bluez-plugins
