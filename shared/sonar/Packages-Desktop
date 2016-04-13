@@ -115,7 +115,7 @@ libaacs
 libdvdcss
 
 #standard cd burning and ripping software
-brasero #for burning, disk copy, etc
+xfburn #for burning, disk copy, etc
 asunder #for cd ripping
 #codecs
 gst-libav
@@ -347,3 +347,6 @@ xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
 xcursor-chameleon-pearl
 xcursor-breeze
+#tintin alteraeon soundpack
+tintin-alteraeon
+
