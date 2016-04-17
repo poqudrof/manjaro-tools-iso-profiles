@@ -45,7 +45,6 @@ kwin
 kwrited
 milou
 oxygen
-oxygen-cursors
 plasma-desktop
 plasma-nm
 plasma-pa
@@ -82,4 +81,4 @@ yakuake
 
 ## Settings package
 manjaro-kde-minimal-settings
-manjaro-firefox-settings
+manjaro-browser-settings

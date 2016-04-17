@@ -4,11 +4,9 @@
 
 ## i3 Packages
 accountsservice
-#alternating-layouts
 bmenu
 compton
 conky-i3
-dmenu-manjaro
 downgrade
 dunst
 ffmpeg
@@ -20,42 +18,38 @@ gufw # firewall
 >openrc ufw-openrc
 hexchat
 htop
-i3exit
-i3-gaps
-i3-help
-i3status-manjaro
-lightdm-gtk-greeter
+i3-scrot
 lightdm-gtk-greeter-settings
 lxappearance
 manjaro-i3-settings
 manjaro-settings-manager
 mlocate
+morc_menu
 p7zip
 polkit-gnome
 ranger
 screenfetch
-scrot
 >openrc timeset
 >openrc ntp-openrc
 tree
 urxvt-perls
 vi
+wmutils
 xarchiver-gtk2
 xautolock
+xdotool
 xfce4-power-manager
 xorg-xkill
 xorg-xprop
 
 ## Applications
 arandr
-# bashmount (AUR)
 clipit
 dfc
 gcolor2
 gksu
 gnome-vfs
 gparted
-gpicview
 gvfs # trash support and mounting volumes
 gvfs-afc
 gvfs-gphoto2
@@ -63,6 +57,7 @@ gvfs-mtp # for mounting Samsung phones
 gvfs-smb
 isousb
 libgpod # iPhone/Pod connectivity
+manjaro-browser-settings
 manjaro-welcome
 # eventually add upower-pm-utils; it seems to depend on DE features; take what works default is upower
 # >openrc upower-pm-utils
@@ -70,29 +65,28 @@ upower
 moc
 mousepad
 ncdu
-nitrogen
 palemoon-bin
 perl-file-mimeinfo
 pcmanfm
 pinta
-qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
+poppler-data # CKJ support for pdf
 open-fuse-iso
 sbxkb
 speedtest-cli
+viewnior
 vlc
 w3m
 xterm
 
 ## Network
->openrc bluez-openrc
 blueman
+>openrc bluez-openrc
 >systemd netctl
 >systemd networkmanager
 >openrc networkmanager-openrc
 network-manager-applet
->openrc networkmanager-consolekit
 networkmanager-dispatcher-ntpd
 >systemd networkmanager-openconnect
 networkmanager-openvpn
@@ -102,18 +96,15 @@ networkmanager-openvpn
 >systemd networkmanager-pptp
 networkmanager-vpnc
 >systemd openresolv
->openrc syslog-ng-openrc
 >systemd syslog-ng
 json-c			# for syslog-ng
+>openrc syslog-ng-openrc
 
 ## Artwork
-artwork-i3
-awoken-icon-theme-light
+console-solarized
 i3-theme-dark
 i3-theme-dust
 maia-icon-theme
-gtk-theme-numix-solarized
-xcursor-chameleon-pearl
 xfce-theme-greenbird
 
 ## Audio Packages
@@ -136,25 +127,11 @@ volumeicon
 
 ## Package management
 pamac
+yaourt
 
 ## Printing
 manjaro-printer
 >openrc cups-openrc
 
 ## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
-gcc
-git
-libconfig
-libtool
-m4
-make
-patch
-subversion
-yaourt
-
+base-devel

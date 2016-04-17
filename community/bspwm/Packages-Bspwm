@@ -25,7 +25,7 @@ dconf
 desktop-file-utils
 
 ## Packages for Sound and Audio
- manjaro-alsa	# containes 32bit libraries
+manjaro-alsa	# containes 32bit libraries
 #alsa-lib
 #alsa-utils
 #alsa-plugins
@@ -62,18 +62,23 @@ dunst
 libnotify
 compton
 i3lock
+bspwm-ruler
 
 ##Applications
 
 ##Desktop 
 spacefm
 udevil
-midori
+gvfs
+#epiphany
+xombrero
 gedit
 file-roller
 gnome-disk-utility
 lxappearance-gtk3
 gufw
+zathura-pdf-poppler
+morc_menu
 
 ##terminal
 #rxvt-unicode

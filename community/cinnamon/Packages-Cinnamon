@@ -5,14 +5,14 @@
 ## Cinnamon
 baobab
 blueberry
-cinnamon
 dconf-editor
 evince
+poppler-data # CKJ support for pdf
 ffmpegthumbnailer
 gimp
 gksu
 manjaro-cinnamon-settings
-manjaro-firefox-settings
+manjaro-browser-settings
 mousepad
 nemo-fileroller # archiver
 nemo-preview
@@ -63,21 +63,16 @@ npapi-vlc
 pidgin-libnotify
 
 ## Artwork
-artwork-cinnamon-minimal
 cinnamon-wallpapers
 flattr-icon-theme
 gtk-theme-numix-solarized
-maia-icon-theme
 menda-circle-icon-theme
 menda-themes
 menda-themes-dark
 plymouth-theme-manjaro-cinnamon
-vertex-maia-themes
 xcursor-menda
-xcursor-simpleandsoft
 
 ## Fonts
-cantarell-fonts
 ttf-droid
 ttf-comfortaa
 
@@ -110,6 +105,7 @@ udisks
 
 ## Package management
 pamac
+yaourt
 
 ## Packages for Sound and Audio
 gst-libav
@@ -135,18 +131,4 @@ manjaro-printer
 system-config-printer
 
 ## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
-gcc
-git
-libconfig
-libtool
-m4
-make
-patch
-subversion
-yaourt
+base-devel

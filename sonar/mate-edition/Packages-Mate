@@ -1,12 +1,11 @@
 ### Sonar mate Packages
 
-
 uriparser
 #login dm
 #lightdm
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
 gdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
 #mate group
 
 marco
@@ -31,7 +30,6 @@ engrampa
 eom
 galculator-gtk2
 mate-applets
-mate-disk-utility
 mate-icon-theme-faenza
 mate-media
 mate-netspeed
@@ -49,20 +47,16 @@ mate-applet-lockkeys
 mate-applet-streamer
 #mate system tools
 system-tools-backends
-
+mate-accountsdialog
 network-manager-applet
 ## Applications
 #our desktop settings
 sonar-mate-settings
-#our installer branding
-#sonar-calamares-branding-mate
-isousb
+gnome-disk-utility
 udiskie
 udisks
 udisks2
 
-#accessibility
-notify-osd
 
 #yelp tool for reading the help files
 yelp
@@ -91,8 +85,6 @@ sonar-backgrounds
 
 #standard media playing software.
 libgpod #for management of apple iPod, iPhone, etc devices
-asunder #lightweight cd ripper
-xfburn #light weight disk burner
 #mate tweak tool
 mate-tweak
 
@@ -102,4 +94,4 @@ freerdp
 libvncserver
 x2goserver
 x2goclient
-
+nxproxy

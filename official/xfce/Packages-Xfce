@@ -3,15 +3,18 @@
 ######################################################
 
 ## XFCE Main Packages
+accountsservice
 ffmpegthumbnailer
 gconf # fix qt-theme
 gnome-keyring # fix wlan segfault
 gufw # firewall
-accountsservice
+libgsf       # support ODF and
+libopenraw   # RAW thumbnailing
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 light-locker
 manjaro-settings-manager
+manjaro-xfce-settings
 menulibre
 mugshot
 network-manager-applet
@@ -19,23 +22,18 @@ networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
+openssh
 orage
 #plank
 poppler-glib
 thunar-archive-plugin
 thunar-media-tags-plugin
 xcursor-simpleandsoft
-xcursor-vanilla-dmz-aa
-xcursor-menda
 xfce4
-libgsf       # support ODF and
-libopenraw   # RAW thumbnailing
 #xscreensaver
-git
-openssh
 
 ## XFCE Extra Packages
-xfce4-artwork
+#xfce4-artwork
 xfce4-battery-plugin
 xfce4-clipman-plugin
 xfce4-cpufreq-plugin
@@ -68,6 +66,7 @@ xfce4-xkb-plugin
 catfish # needed for desktop search
 engrampa-thunar-plugin
 firefox-gtk2
+manjaro-browser-settings
 galculator-gtk2
 gimp
 gksu
@@ -84,6 +83,8 @@ manjaro-welcome
 #midori
 mlocate
 mousepad
+open-fuse-iso
+p7zip
 #parole
 pidgin
 #evince
@@ -91,28 +92,28 @@ pidgin
 qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
+poppler-data  # CKJ support for pdf
 thunderbird
 viewnior
 vlc
 xfburn
 #xnoise
-yelp
-open-fuse-iso
-p7zip
 xorg-xkill
+yelp
 
 ## Network
+blueman
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
 openresolv
-blueman
 #samba
 #thunar-shares-plugin-manjaro
 
 ## Artwork
->systemd plymouth-theme-manjaro-elegant
 manjaro-backgrounds
+>systemd plymouth-theme-manjaro-elegant
+xcursor-vanilla-dmz-aa
 
 ## Packages for Sound and Audio
 gst-libav
@@ -166,6 +167,7 @@ fakeroot
 flex
 gcc
 >multilib gcc-multilib
+git
 libtool
 m4
 make
@@ -175,6 +177,3 @@ yaourt
 
 ## Documentation
 manjaro-documentation
-
-manjaro-xfce-settings
-manjaro-backgrounds
