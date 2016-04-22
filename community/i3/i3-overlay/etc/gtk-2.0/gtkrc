@@ -2,6 +2,6 @@
 # /etc/gtk-2.0/gtkrc
 #
 
-gtk-theme-name="Numix Solarized"
-gtk-icon-theme-name="AwOken"
+gtk-theme-name="Vertex-Maia-Dark"
+gtk-icon-theme-name="Breeze-Maia-Dark"
 gtk-font-name="Cantarell 10"

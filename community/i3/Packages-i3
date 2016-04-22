@@ -101,11 +101,8 @@ json-c			# for syslog-ng
 >openrc syslog-ng-openrc
 
 ## Artwork
-console-solarized
-i3-theme-dark
-i3-theme-dust
-maia-icon-theme
-xfce-theme-greenbird
+breeze-maia-icon-themes
+vertex-maia-themes
 
 ## Audio Packages
 >openrc alsa-utils-openrc
