@@ -285,8 +285,8 @@ bar {
 #	tray_output primary
 #	tray_output eDP1
 
-	wheel_up_cmd nop
-	wheel_down_cmd nop
+	bindsym button4 nop
+	bindsym button5 nop
 	font pango:Cantarell,Icons 10
 	colors {
 #	background $transparent
