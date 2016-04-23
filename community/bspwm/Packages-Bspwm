@@ -112,7 +112,6 @@ delayed-hibernation
 xlogin
 thermald
 clonezilla
-mhwd-chroot-extended
 
 ## AUR Access
 # base-devel
