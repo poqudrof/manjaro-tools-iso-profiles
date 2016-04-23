@@ -266,7 +266,7 @@ bindsym $mod+9 exec --no-startup-id blurlock
 
 # Autostart applications
 exec --no-startup-id nitrogen --restore; sleep 1; compton -b
-exec --no-startup-id start_conky_live_solarized
+exec --no-startup-id start_conky_live_maia
 # exec --no-startup-id blueman
 exec --no-startup-id clipit
 exec --no-startup-id desktop-items
