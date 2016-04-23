@@ -111,6 +111,7 @@ hibernator
 delayed-hibernation
 xlogin
 thermald
+clonezilla
 
 ## AUR Access
 # base-devel
