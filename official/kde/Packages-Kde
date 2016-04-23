@@ -176,9 +176,11 @@ kdebase-kfind
 kdeconnect
 kdegraphics-okular
 kdenetwork-kget
+kdenetwork-filesharing
 kdenlive
 kde-servicemenus-rootactions
 kio-extras
+kleopatra
 konsole
 konversation
 ksystemlog
@@ -188,13 +190,13 @@ gwenview
 print-manager
 skanlite
 spectacle
-# KDE PIM
+
+## KDE PIM
 akonadiconsole
 akregator
 blogilo
 kaddressbook
 kalarm
-kleopatra
 kmail
 knotes
 konsolekalendar
@@ -226,8 +228,9 @@ qt5-imageformats  # support for tiff, webp, and more image formats
 kipi-plugins  # more tools and plugins
 
 ## Optional dependencies for dolphin
-ruby  # installing new service menus with GHNS
-ffmpegthumbs  # video thumbnails
+kdegraphics-thumbnailers  # PDF and PS thumbnails
+ffmpegthumbs              # video thumbnails
+ruby                      # installing new service menus with GHNS
 
 ## Optional dependencies for print-manager
 system-config-printer  # auto-detect the printer driver
@@ -274,7 +277,6 @@ calligra-krita
 
 ## KDE Frameworks
 kmediaplayer
-kactivities
 
 # Partition
 #gparted

@@ -10,13 +10,14 @@ empathy
 eog
 #epiphany
 evince
+gedit
 gdm
 gnome-backgrounds
 gnome-calculator
-gnome-contacts
+#gnome-contacts
 gnome-control-center
 gnome-desktop
-gnome-dictionary
+#gnome-dictionary
 gnome-disk-utility
 gnome-font-viewer
 gnome-keyring
@@ -38,6 +39,7 @@ mutter
 nautilus
 sushi
 totem
+lollypop
 tracker
 vino
 xdg-user-dirs-gtk
@@ -64,7 +66,8 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
 manjaro-welcome
-open-fuse-iso
+isousb
+#open-fuse-iso
 #gnome-shell-extension now set in desktop settings
 
 ## Network
@@ -72,12 +75,12 @@ netctl
 networkmanager
 networkmanager-dispatcher-ntpd
 openresolv
-blueman
+#blueman
 
 ## Artwork
 manjaro-artwork
 plymouth-theme-manjaro-gnome
-maia-icon-theme
+vertex-maia-icon-theme
 vertex-maia-themes
 
 ## Packages for Sound and Audio
@@ -91,7 +94,7 @@ gstreamer0.10-base-plugins
 gstreamer0.10-good-plugins
 gstreamer0.10-ugly-plugins
 #flashplugin
-libdvdcss
+#libdvdcss
 manjaro-alsa
 manjaro-pulse
 pulseaudio-bluetooth

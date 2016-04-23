@@ -45,7 +45,7 @@ screen
 wget
 youtube-viewer
 youtube-dl
-
+dictd #command line dictionary
 #bluetooth support
 bluez-firmware
 bluez-plugins
@@ -115,7 +115,7 @@ libaacs
 libdvdcss
 
 #standard cd burning and ripping software
-brasero #for burning, disk copy, etc
+xfburn #for burning, disk copy, etc
 asunder #for cd ripping
 #codecs
 gst-libav
@@ -227,6 +227,7 @@ cantarell-fonts
 ttf-droid
 ttf-inconsolata
 ttf-liberation
+ttf-ubraille
 adobe-source-sans-pro-fonts
 #firefoxOS fonts
 otf-fira-mono
@@ -347,3 +348,6 @@ xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
 xcursor-chameleon-pearl
 xcursor-breeze
+#tintin alteraeon soundpack
+tintin-alteraeon
+
