@@ -46,7 +46,6 @@ gvfs-smb
 gvfs-mtp
 gvfs-afc
 gvfs
-open-fuse-iso
 android-tools
 android-udev
 kamera
@@ -117,7 +116,6 @@ drkonqi
 kde-gtk-config
 kdeplasma-addons
 kgamma5
-khelpcenter
 kinfocenter
 kmenuedit
 kscreen
@@ -179,6 +177,7 @@ kdenetwork-kget
 kdenetwork-filesharing
 kdenlive
 kde-servicemenus-rootactions
+khelpcenter
 kio-extras
 kleopatra
 konsole
