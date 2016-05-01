@@ -73,6 +73,7 @@ kwrite
 
 ## Applications
 manjaro-settings-manager-kcm
+manjaro-settings-manager-kde-notifier
 manjaro-welcome
 partitionmanager
 qpdfview
