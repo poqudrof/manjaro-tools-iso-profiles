@@ -46,7 +46,6 @@ gvfs-smb
 gvfs-mtp
 gvfs-afc
 gvfs
-open-fuse-iso
 android-tools
 android-udev
 kamera
@@ -117,7 +116,6 @@ drkonqi
 kde-gtk-config
 kdeplasma-addons
 kgamma5
-khelpcenter
 kinfocenter
 kmenuedit
 kscreen
@@ -140,9 +138,11 @@ systemsettings
 user-manager
 
 ## Themes
-plasma5-themes-maia
+plasma5-themes-maia  # Default
+plasma5-themes-andromeda
 gnome-icon-theme
-sddm-maia-theme
+sddm-maia-theme  # Default
+sddm-andromeda-theme
 >systemd plymouth-theme-manjaro-elegant
 
 ## GTK Themes
@@ -179,6 +179,7 @@ kdenetwork-kget
 kdenetwork-filesharing
 kdenlive
 kde-servicemenus-rootactions
+khelpcenter
 kio-extras
 kleopatra
 konsole
@@ -192,17 +193,17 @@ skanlite
 spectacle
 
 ## KDE PIM
-akonadiconsole
-akregator
-blogilo
-kaddressbook
-kalarm
-kmail
-knotes
-konsolekalendar
-kontact
-korganizer
-ktnef
+#akonadiconsole
+#akregator
+#blogilo
+#kaddressbook
+#kalarm
+#kmail
+#knotes
+#konsolekalendar
+#kontact
+#korganizer
+#ktnef
 
 ## Optional dependencies for k3b
 cdparanoia    # for cd ripping support
@@ -245,13 +246,14 @@ cantata
 imagewriter
 firefox-kde
 flashplugin
-#manjaro-settings-manager
-kcm-msm
+manjaro-settings-manager-kcm
+manjaro-settings-manager-kde-notifier
 manjaro-welcome
 p7zip
 qbittorrent
 screenfetch
 >systemd systemd-kcm
+thunderbird-kde
 vlc
 yakuake
 

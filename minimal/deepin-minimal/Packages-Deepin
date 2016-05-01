@@ -19,6 +19,8 @@ nautilus-empty-file
 ## deepin-extra packages
 deepin-screenshot
 deepin-terminal
+# workaround launcher-bug https://github.com/linuxdeepin/dde-launcher/issues/5
+gnome-terminal
 
 ## other deepin Packages
 dconf-editor

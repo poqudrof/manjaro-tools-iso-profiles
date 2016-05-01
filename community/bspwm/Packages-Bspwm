@@ -35,10 +35,10 @@ manjaro-alsa	# containes 32bit libraries
 
 ## Artwork
 xcursor-breeze
-menda-circle-icon-theme
+vertex-maia-icon-theme
 console-solarized
 bspwm-wallpapers
-gtk-theme-maia
+vertex-maia-gtk3
 
 ## Network
 networkmanager
@@ -111,6 +111,7 @@ hibernator
 delayed-hibernation
 xlogin
 thermald
+clonezilla
 
 ## AUR Access
 # base-devel
