@@ -94,9 +94,9 @@ sane
 sane-gt68xx-firmware
 
 #standard media playing software
-rhythmbox #for music management.
-#swiss army knife of cli audio file manipulation
-sox
+audacious #for music management.
+audacious-plugins #additional plugins for audacious
+sox #swiss army knife of cli audio file manipulation
 atomicparsley #for embedding thumbnails in the m4a format
 libimobiledevice #for apple device support
 libplist #for parsing apple .plist files

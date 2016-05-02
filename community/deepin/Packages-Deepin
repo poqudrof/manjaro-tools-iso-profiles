@@ -14,6 +14,8 @@ deepin-movie
 deepin-music
 deepin-screenshot
 deepin-terminal
+# workaround launcher-bug https://github.com/linuxdeepin/dde-launcher/issues/5
+gnome-terminal
 
 ## other deepin Packages
 baobab
@@ -41,7 +43,7 @@ libimobiledevice
 libreoffice-fresh
 manjaro-deepin-settings
 manjaro-documentation
-manjaro-settings-manager
+manjaro-settings-manager-notifier
 manjaro-welcome
 mlocate
 mousepad

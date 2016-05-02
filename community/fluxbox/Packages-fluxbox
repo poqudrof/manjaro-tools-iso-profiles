@@ -17,7 +17,7 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 lxappearance
 manjaro-fluxbox-settings
-manjaro-settings-manager
+manjaro-settings-manager-notifier
 oblogout-manjaro
 plank
 polkit-gnome
