@@ -24,7 +24,7 @@ lxappearance
 manjaro-i3-settings
 manjaro-settings-manager-notifier
 mlocate
-morc_menu
+# morc_menu
 p7zip
 polkit-gnome
 ranger
