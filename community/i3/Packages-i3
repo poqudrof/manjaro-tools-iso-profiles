@@ -22,9 +22,9 @@ i3-scrot
 lightdm-gtk-greeter-settings
 lxappearance
 manjaro-i3-settings
-manjaro-settings-manager
+manjaro-settings-manager-notifier
 mlocate
-morc_menu
+# morc_menu
 p7zip
 polkit-gnome
 ranger
@@ -78,6 +78,7 @@ speedtest-cli
 viewnior
 vlc
 w3m
+xfburn
 xterm
 
 ## Network

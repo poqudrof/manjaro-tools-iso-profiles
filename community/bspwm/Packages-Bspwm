@@ -35,10 +35,10 @@ manjaro-alsa	# containes 32bit libraries
 
 ## Artwork
 xcursor-breeze
-vertex-maia-icon-theme
+breeze-maia-icon-themes
 console-solarized
 bspwm-wallpapers
-vertex-maia-gtk3
+adwaita-maia-gtk3
 
 ## Network
 networkmanager
@@ -70,8 +70,7 @@ bspwm-ruler
 spacefm
 udevil
 gvfs
-#epiphany
-xombrero
+lightfirefox
 gedit
 file-roller
 gnome-disk-utility
