@@ -47,6 +47,7 @@ arandr
 clipit
 dfc
 gcolor2
+gimp
 gksu
 gnome-vfs
 gparted
@@ -68,7 +69,6 @@ ncdu
 palemoon-bin
 perl-file-mimeinfo
 pcmanfm
-pinta
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
 poppler-data # CKJ support for pdf
