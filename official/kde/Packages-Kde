@@ -282,7 +282,7 @@ kmediaplayer
 
 # Partition
 #gparted
-partitionmanager
+partitionmanager-dev #with luks-support
 
 ## Documentation
 manjaro-documentation
