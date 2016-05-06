@@ -181,7 +181,7 @@ pidgin
 pidgin-otr #off the record
 pidgin-sipe #office communicator
 pidgin-encryption #transparently encrypt outgoing messages using nss, similar to off the record
-
+telegram-purple #telegram protocol support for pidgin
 #standard voip software
 mumble
 
