@@ -351,3 +351,10 @@ xcursor-breeze
 #tintin alteraeon soundpack
 tintin-alteraeon
 
+#development tools
+gcc_multilib
+ipython
+fakeroot
+make
+cmake
+
