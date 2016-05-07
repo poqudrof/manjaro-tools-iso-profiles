@@ -352,7 +352,7 @@ xcursor-breeze
 tintin-alteraeon
 
 #development tools
-gcc-multilib
+gcc
 ipython
 fakeroot
 make
