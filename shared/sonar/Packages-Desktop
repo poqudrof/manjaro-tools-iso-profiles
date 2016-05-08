@@ -117,7 +117,7 @@ libdvdcss
 #standard dvd ripping software
 handbrake
 #standard cd burning and ripping software
-xfburn #for burning, disk copy, etc
+brasero #for burning, disk copy, etc
 asunder #for cd ripping
 #codecs
 gst-libav
@@ -184,6 +184,7 @@ pidgin-otr #off the record
 pidgin-sipe #office communicator
 pidgin-encryption #transparently encrypt outgoing messages using nss, similar to off the record
 telegram-purple #telegram protocol support for pidgin
+purple-skypeweb #skype plugin, does not require skype.
 #standard voip software
 mumble
 
