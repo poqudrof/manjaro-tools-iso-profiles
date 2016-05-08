@@ -72,7 +72,8 @@ kate
 kwrite
 
 ## Applications
-kcm-msm
+manjaro-settings-manager-kcm
+manjaro-settings-manager-knotifier
 manjaro-welcome
 partitionmanager
 qpdfview

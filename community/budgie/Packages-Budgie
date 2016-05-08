@@ -9,6 +9,7 @@ baobab
 dconf-editor
 hexchat
 evince
+gnome-calendar
 gnome-calculator
 gnome-control-center
 gnome-disk-utility
@@ -20,6 +21,7 @@ gnome-system-log
 gnome-system-monitor
 gnome-terminal
 gnome-screensaver
+gnome-tweak-tool
 grilo-plugins
 gucharmap
 mousetweaks
@@ -30,6 +32,7 @@ file-roller
 sushi
 #smplayer
 lollypop
+totem
 tracker
 vino
 xdg-user-dirs-gtk
@@ -43,7 +46,6 @@ ibus
 alacarte
 
 ## Main Packages
-gnome-tweak-tool
 gufw # firewall
 manjaro-settings-manager
 lightdm-gtk-greeter
@@ -53,6 +55,7 @@ network-manager-applet
 manjaro-budgie-settings
 
 ## Applications
+xarchiver
 firefox
 sylpheed
 gimp
@@ -80,11 +83,11 @@ networkmanager-vpnc
 manjaro-artwork
 plymouth-theme-manjaro-fancy-budgie
 adwaita-icon-theme
-maia-icon-theme
 arc-themes
 arc-firefox-theme
 manjaro-browser-settings
 budgie-wallpapers
+moka-icon-theme
 
 ## Packages for Sound and Audio
 gst-libav

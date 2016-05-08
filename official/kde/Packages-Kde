@@ -46,7 +46,6 @@ gvfs-smb
 gvfs-mtp
 gvfs-afc
 gvfs
-open-fuse-iso
 android-tools
 android-udev
 kamera
@@ -117,7 +116,6 @@ drkonqi
 kde-gtk-config
 kdeplasma-addons
 kgamma5
-khelpcenter
 kinfocenter
 kmenuedit
 kscreen
@@ -140,9 +138,11 @@ systemsettings
 user-manager
 
 ## Themes
-plasma5-themes-maia
+plasma5-themes-maia  # Default
+plasma5-themes-andromeda
 gnome-icon-theme
-sddm-maia-theme
+sddm-maia-theme  # Default
+sddm-andromeda-theme
 >systemd plymouth-theme-manjaro-elegant
 
 ## GTK Themes
@@ -176,9 +176,12 @@ kdebase-kfind
 kdeconnect
 kdegraphics-okular
 kdenetwork-kget
+kdenetwork-filesharing
 kdenlive
 kde-servicemenus-rootactions
+khelpcenter
 kio-extras
+kleopatra
 konsole
 konversation
 ksystemlog
@@ -188,19 +191,19 @@ gwenview
 print-manager
 skanlite
 spectacle
-# KDE PIM
-akonadiconsole
-akregator
-blogilo
-kaddressbook
-kalarm
-kleopatra
-kmail
-knotes
-konsolekalendar
-kontact
-korganizer
-ktnef
+
+## KDE PIM
+#akonadiconsole
+#akregator
+#blogilo
+#kaddressbook
+#kalarm
+#kmail
+#knotes
+#konsolekalendar
+#kontact
+#korganizer
+#ktnef
 
 ## Optional dependencies for k3b
 cdparanoia    # for cd ripping support
@@ -226,8 +229,9 @@ qt5-imageformats  # support for tiff, webp, and more image formats
 kipi-plugins  # more tools and plugins
 
 ## Optional dependencies for dolphin
-ruby  # installing new service menus with GHNS
-ffmpegthumbs  # video thumbnails
+kdegraphics-thumbnailers  # PDF and PS thumbnails
+ffmpegthumbs              # video thumbnails
+ruby                      # installing new service menus with GHNS
 
 ## Optional dependencies for print-manager
 system-config-printer  # auto-detect the printer driver
@@ -242,13 +246,14 @@ cantata
 imagewriter
 firefox-kde
 flashplugin
-#manjaro-settings-manager
-kcm-msm
+manjaro-settings-manager-kcm
+manjaro-settings-manager-knotifier
 manjaro-welcome
 p7zip
 qbittorrent
 screenfetch
 >systemd systemd-kcm
+thunderbird-kde
 vlc
 yakuake
 
@@ -274,7 +279,6 @@ calligra-krita
 
 ## KDE Frameworks
 kmediaplayer
-kactivities
 
 # Partition
 #gparted

@@ -35,10 +35,10 @@ manjaro-alsa	# containes 32bit libraries
 
 ## Artwork
 xcursor-breeze
-menda-circle-icon-theme
+breeze-maia-icon-themes
 console-solarized
 bspwm-wallpapers
-gtk-theme-maia
+adwaita-maia-gtk3
 
 ## Network
 networkmanager
@@ -70,8 +70,7 @@ bspwm-ruler
 spacefm
 udevil
 gvfs
-#epiphany
-xombrero
+lightfirefox
 gedit
 file-roller
 gnome-disk-utility
@@ -111,6 +110,7 @@ hibernator
 delayed-hibernation
 xlogin
 thermald
+clonezilla
 
 ## AUR Access
 # base-devel
