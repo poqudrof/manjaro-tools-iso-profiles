@@ -114,6 +114,8 @@ libaacs
 #dvd decryption
 libdvdcss
 
+#standard dvd ripping software
+handbrake
 #standard cd burning and ripping software
 xfburn #for burning, disk copy, etc
 asunder #for cd ripping
