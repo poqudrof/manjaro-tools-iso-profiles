@@ -2,10 +2,10 @@
 
 uriparser
 #login dm
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
-#gdm
+#lightdm
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
+gdm
 #mate group
 
 marco
