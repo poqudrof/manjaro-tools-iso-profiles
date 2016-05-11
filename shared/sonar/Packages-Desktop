@@ -159,6 +159,7 @@ soundconverter #for audio formats and video if all you want is the audio
 ## Package management
 #gnome-software
 pamac
+packagekit #for installing software in the help browser
 #live image specifics
 #manjaro provided firmware
 manjaro-firmware
