@@ -208,6 +208,8 @@ libmythes #for the thesorus
 vigra #for improved c/c++ code editing
 libmspack #for microsoft compression formats
 unixodbc #for some database formats
+libreoffice-extension-writer2latex
+libreoffice-extension-texmaths
 
 #command line document converter
 unoconv
