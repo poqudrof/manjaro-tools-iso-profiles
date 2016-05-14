@@ -2,12 +2,12 @@
 
 uriparser
 #login dm
-#lightdm
-#lightdm-gtk-greeter
-#lightdm-gtk-greeter-settings
-gdm
-#mate group
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+#gdm
 
+#mate group
 marco
 mate-backgrounds
 mate-control-center
@@ -46,9 +46,11 @@ pluma
 mate-applet-lockkeys
 mate-applet-streamer
 #mate system tools
-system-tools-backends
+#system-tools-backends
 mate-accountsdialog
 network-manager-applet
+
+mate-user-guide #doh!
 ## Applications
 #our desktop settings
 sonar-mate-settings
@@ -84,7 +86,7 @@ menda-circle-icon-theme
 sonar-backgrounds
 
 #standard media playing software.
-audacious #for media management
+parole #replacement for videos
 libgpod #for management of apple iPod, iPhone, etc devices
 #mate tweak tool
 mate-tweak
