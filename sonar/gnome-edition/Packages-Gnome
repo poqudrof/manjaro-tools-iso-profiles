@@ -119,3 +119,8 @@ gnome-themes-maia
 vertex-maia-themes
 sonar-backgrounds
 
+#gnome shell extensions
+gnome-shell-extension-mediaplayer #extension that adds media controlls to the top bar when songs and videos are playing
+gnome-shell-extension-openweather #a shell extension which adds weather forecast support to the top bar
+gnome-shell-extension-gnomenu #a shell extension that adds a classic menu of application categories, accessories, games, etc to the top bar
+
