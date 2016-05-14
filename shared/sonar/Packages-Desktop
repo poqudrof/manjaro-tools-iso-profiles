@@ -364,4 +364,7 @@ ipython
 fakeroot
 make
 cmake
+#standard file sharing software
+syncthing
+syncthing-gtk #graphical interface
 
