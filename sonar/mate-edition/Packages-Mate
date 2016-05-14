@@ -49,6 +49,8 @@ mate-applet-streamer
 #system-tools-backends
 mate-accountsdialog
 network-manager-applet
+
+mate-user-guide #doh!
 ## Applications
 #our desktop settings
 sonar-mate-settings
