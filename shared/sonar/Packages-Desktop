@@ -358,12 +358,12 @@ xcursor-breeze
 tintin-alteraeon
 
 #development tools
->x86_64 gcc-multilib
->i686 gcc
-ipython
-fakeroot
-make
-cmake
+#>x86_64 gcc-multilib
+#>i686 gcc
+#ipython
+#fakeroot
+#make
+#cmake
 #standard file sharing software
 syncthing
 syncthing-gtk #graphical interface
