@@ -111,6 +111,9 @@ delayed-hibernation
 xlogin
 thermald
 clonezilla
+dfc
+ncdu
+speedtest-cli
 
 ## AUR Access
 # base-devel
