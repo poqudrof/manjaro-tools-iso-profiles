@@ -17,8 +17,6 @@ thinkfinger
 #flashrom bios updater
 flashrom
 dmidecode
-#optional command line tool to check hardware
-lshw
 surfraw
 #bash completion package
 bash-completion
@@ -115,11 +113,10 @@ libaacs
 #dvd decryption
 libdvdcss
 
-#standard dvd ripping software
-handbrake
 #standard cd burning and ripping software
 brasero #for burning, disk copy, etc
 asunder #for cd ripping
+handbrake #for dvd ripping
 #codecs
 gst-libav
 gst-plugins-bad
@@ -155,10 +152,9 @@ ocrdesktop
 
 #standard audio and video converters
 transmageddon  #for video formats
-soundconverter #for audio formats and video if all you want is the audio
+soundconverter #for audio formats and video if all you want is the #audio
 
 ## Package management
-#gnome-software
 pamac
 packagekit #for installing software in the help browser
 #live image specifics
@@ -249,7 +245,6 @@ gvfs-smb #smb/cifs (windows filesharing) backend
 
 ## Network
 modemmanager
-modem-manager-gui
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
@@ -280,7 +275,7 @@ orca
 #library for orca plugins
 libpeas
 speech-dispatcher
-#brltty is now pulled in by manjaro-live-skel, but keeping it hear in case it's needed #again in the future
+#brltty is now pulled in by manjaro-live-skel, but keeping it hear #in case it's needed #again in the future
 #brltty
 eviacam
 open-dyslexic-fonts
@@ -290,7 +285,7 @@ java-access-bridge #for java accessibility
 dasher #on screen keyboard
 ibus #input method support
 ibus-table #needed by some input methods
-ibus-table-extraphrase #extra table phrases, also needed by a few input methods
+ibus-table-extraphrase #extra table phrases, also needed by a few #input methods
 ##java
 icedtea-web
 
@@ -344,8 +339,8 @@ sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
-#Kernel-r8168
-#Kernel-vhba-module
+Kernel-r8168
+Kernel-vhba-module
 
 #dos emulator, used to play old dos games
 dosemu
