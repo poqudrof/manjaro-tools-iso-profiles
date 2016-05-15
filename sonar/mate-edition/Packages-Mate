@@ -99,7 +99,7 @@ nxproxy
 #screensavers
 mate-screensaver
 mate-screensaver-hacks #additional screensavers
-rssglx #really slick screensavers
+rss-glx #really slick screensavers
 
 #printing
 system-config-printer #gui for setting up printers
