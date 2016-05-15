@@ -33,9 +33,6 @@ mate-icon-theme-faenza
 mate-media
 mate-netspeed
 mate-power-manager
-mate-screensaver
-mate-screensaver-hacks #additional screensavers
-rssglx #really slick screensavers
 mate-sensors-applet
 mate-system-monitor
 #mate-system-tools
@@ -99,3 +96,8 @@ libvncserver
 x2goserver
 x2goclient
 nxproxy
+#screensavers
+mate-screensaver
+mate-screensaver-hacks #additional screensavers
+rssglx #really slick screensavers
+
