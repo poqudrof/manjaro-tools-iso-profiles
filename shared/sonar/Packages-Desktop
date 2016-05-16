@@ -1,3 +1,4 @@
+uriparser
 ## Artwork
 adwaita-manjaro-themes
 menda-themes
@@ -9,6 +10,7 @@ awoken-icon-theme
 breeze-gtk
 breeze-icons
 faenza-green-icon-theme
+gnome-themes-maia
 numix-manjaro-themes
 vertex-themes
 vertex-maia-themes
@@ -49,6 +51,12 @@ wget
 youtube-viewer
 youtube-dl
 dictd #command line dictionary
+#yelp tool for reading the help files
+yelp
+
+#gnome keyring and friends
+gnome-keyring
+seahorse
 #bluetooth support
 bluez-firmware
 bluez-plugins
@@ -85,7 +93,6 @@ bluez-cups #for bluetooth printers
 antiword
 unrtf
 
-
 #mac filesystem utils
 hfsprogs
 
@@ -96,6 +103,10 @@ thermald
 sane
 sane-gt68xx-firmware
 
+gnome-disk-utility
+udiskie
+udisks
+udisks2
 #standard media playing software
 audacious #for music management.
 audacious-plugins #additional plugins for audacious
@@ -105,6 +116,7 @@ libimobiledevice #for apple device support
 libplist #for parsing apple .plist files
 shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
+libgpod #for management of apple iPod, iPhone, etc devices
 npapi-vlc #firefox plugin to play files in vlc
 gnome-sound-recorder #for basic sound recording
 #id3 tag libraries
@@ -120,6 +132,11 @@ libdvdcss
 
 #standard cd burning and ripping software
 brasero #for burning, disk copy, etc
+#extra addons for brasero
+libwmf
+dvdbackup
+dvdauthor
+openjpeg2
 asunder #for cd ripping
 handbrake #for dvd ripping
 #codecs
@@ -291,6 +308,7 @@ dasher #on screen keyboard
 ibus #input method support
 ibus-table #needed by some input methods
 ibus-table-extraphrase #extra table phrases, also needed by a few #input methods
+mousetweaks
 ##java
 icedtea-web
 
@@ -377,3 +395,11 @@ make
 patch
 subversion
 yaourt
+
+#remote access software, libraries only
+
+freerdp
+libvncserver
+x2goserver
+x2goclient
+nxproxy

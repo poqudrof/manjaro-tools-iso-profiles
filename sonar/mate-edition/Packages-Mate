@@ -1,6 +1,5 @@
 ### Sonar mate Packages
 
-uriparser
 #login dm
 lightdm
 lightdm-gtk-greeter
@@ -9,24 +8,13 @@ lightdm-gtk-greeter-settings
 mate
 mate-extra
 mate-accountsdialog
-network-manager-applet
 
 mate-user-guide #doh!
 ## Applications
 #our desktop settings
 sonar-mate-settings
-gnome-disk-utility
-udiskie
-udisks
-udisks2
 
 
-#yelp tool for reading the help files
-yelp
-
-#gnome keyring and friends
-gnome-keyring
-seahorse
 #bluetooth utils
 blueman
 #iPhone fuse mounter
@@ -34,27 +22,18 @@ ifuse
 
 #gtk iPod gui
 gtkpod
-id3v2
 #I thought I put this on here, but apparently not
 evince
 
-mousetweaks
 
-## Artwork
 
 #standard media playing software.
 parole #replacement for videos
-libgpod #for management of apple iPod, iPhone, etc devices
 #mate tweak tool
 mate-tweak
 
 #standard remote desktop software
 remmina
-freerdp
-libvncserver
-x2goserver
-x2goclient
-nxproxy
 #screensavers
 mate-screensaver
 mate-screensaver-hacks #additional screensavers
