@@ -105,6 +105,7 @@ libimobiledevice #for apple device support
 libplist #for parsing apple .plist files
 shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
+npapi-vlc #firefox plugin to play files in vlc
 gnome-sound-recorder #for basic sound recording
 #id3 tag libraries
 id3v2
