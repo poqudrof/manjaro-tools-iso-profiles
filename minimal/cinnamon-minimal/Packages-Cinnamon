@@ -51,11 +51,6 @@ plymouth-theme-manjaro-cinnamon
 vertex-maia-themes
 xcursor-simpleandsoft
 
-#Fonts
-cantarell-fonts
-ttf-droid
-ttf-comfortaa
-
 ## Other Applications
 exfat-utils
 fuse-exfat

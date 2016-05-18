@@ -70,11 +70,7 @@ menda-circle-icon-theme
 menda-themes
 menda-themes-dark
 plymouth-theme-manjaro-cinnamon
-xcursor-menda
-
-## Fonts
-ttf-droid
-ttf-comfortaa
+xcursor-maia
 
 ## Other Applications
 exfat-utils
