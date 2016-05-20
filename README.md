@@ -98,17 +98,3 @@ manjaro-tools-iso-profiles
 ######* Packages-Live
 * Contains packages you only want in live session but not installed on the target system with installer
 * default files are in shared folder and can be symlinked or defined in a real file
-
-###### optional custom pacman.conf in profile
-
-* for i686
-
-~~~
-pacman-default.conf
-~~~
-
-* for x86_64
-
-~~~
-pacman-multilib.conf
-~~~
