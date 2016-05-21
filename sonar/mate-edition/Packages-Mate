@@ -1,10 +1,10 @@
 ### Sonar mate Packages
 
 #login dm
-#lightdm
-#lightdm-gtk-greeter
-#lightdm-gtk-greeter-settings
-gdm
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+#gdm
 mate
 mate-extra
 mate-accountsdialog
