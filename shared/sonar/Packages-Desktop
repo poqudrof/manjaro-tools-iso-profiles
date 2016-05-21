@@ -1,22 +1,12 @@
-uriparser
 ## Artwork
-adwaita-manjaro-themes
-menda-themes
-menda-circle-icon-theme
 sonar-backgrounds
 manjaro-backgrounds
-arc-themes
-awoken-icon-theme
-breeze-gtk
-breeze-icons
-faenza-green-icon-theme
-gnome-themes-maia
-numix-manjaro-themes
 vertex-themes
 vertex-maia-themes
-moka-icon-theme
-numix-reborn-suite
+vertex-maia-icon-theme
 gnome-wallpapers
+
+## Misc tools
 #finger print support
 fprintd
 thinkfinger
@@ -30,8 +20,8 @@ bash-completion
 android-tools
 android-udev
 nss-mdns #optional dep of avahi, providing multicast support
-
 media-player-info #needed by calamares installer, but useful for cli and desktop systems.
+uriparser
 
 #command line battery saving tool
 powertop
@@ -188,8 +178,6 @@ manjaro-hotfixes
 sonar-backgrounds
 #our isolinux branding
 sonar-isolinux
-#our installer branding
-sonar-calamares-branding
 #standard applications
 firefox
 thunderbird
@@ -373,6 +361,7 @@ xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
 xcursor-chameleon-pearl
 xcursor-breeze
+xcursor-maia
 #tintin alteraeon soundpack
 tintin-alteraeon
 
