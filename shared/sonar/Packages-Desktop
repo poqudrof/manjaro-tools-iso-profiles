@@ -4,7 +4,6 @@ manjaro-backgrounds
 vertex-themes
 vertex-maia-themes
 vertex-maia-icon-theme
-gnome-wallpapers
 
 ## Misc tools
 #finger print support
@@ -325,10 +324,6 @@ libcanberra-gstreamer
 #standard video editor
 pitivi
  frei0r-plugins
-#standard scheduling software
-gnome-schedule
-#standard terminal emulator
-gnome-terminal
 #standard accounting software
 gnucash #main program
 perl-date-manip #for stock quotes
