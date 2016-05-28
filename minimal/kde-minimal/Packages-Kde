@@ -75,7 +75,7 @@ kwrite
 manjaro-settings-manager-kcm
 manjaro-settings-manager-knotifier
 manjaro-welcome
-partitionmanager-dev #with luks support
+partitionmanager
 qpdfview
 qupzilla
 yakuake
