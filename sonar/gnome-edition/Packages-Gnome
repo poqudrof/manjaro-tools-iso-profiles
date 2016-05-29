@@ -42,7 +42,6 @@ gnome-terminal
 ## Applications
 #our desktop settings
 sonar-gnome-settings
-firefox-theme-adwaita
 #gimp
 #gvfs packages
 gvfs-google #google drive backend
