@@ -388,3 +388,6 @@ libvncserver
 x2goserver
 x2goclient
 nxproxy
+#standard scheduling software
+gnome-schedule
+
