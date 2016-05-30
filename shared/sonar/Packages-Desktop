@@ -21,7 +21,6 @@ android-udev
 nss-mdns #optional dep of avahi, providing multicast support
 media-player-info #needed by calamares installer, but useful for cli and desktop systems.
 uriparser
-xterm
 
 #command line battery saving tool
 powertop
@@ -69,8 +68,6 @@ pulseaudio-xen
 #Sound theme support
 sound-theme-freedesktop
 sonar-sound-theme
-
-
 ## Printing
 manjaro-printer
 python-pysmbc #for windows shared printers
@@ -382,7 +379,6 @@ subversion
 yaourt
 
 #remote access software, libraries only
-
 freerdp
 libvncserver
 x2goserver
@@ -390,4 +386,6 @@ x2goclient
 nxproxy
 #standard scheduling software
 gnome-schedule
+#downgrade utility
+downgrade
 
