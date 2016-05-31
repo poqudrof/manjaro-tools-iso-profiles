@@ -17,12 +17,12 @@ gnome-terminal
 
 ## other deepin Packages
 baobab
+chromium
 dconf-editor
 downgrade
 evince
 poppler-data # CKJ support for pdf
 evolution
-firefox
 galculator
 gimp
 gksu
