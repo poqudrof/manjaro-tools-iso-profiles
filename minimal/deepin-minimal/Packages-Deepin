@@ -9,11 +9,10 @@ deepin-control-center
 deepin-daemon
 deepin-desktop
 deepin-dock
-deepin-gtk-theme
+#deepin-gtk-theme
 deepin-launcher
 deepin-manjaro
 deepin-social-sharing
-libdeepin-webkit
 nautilus-empty-file
 
 ## deepin-extra packages
@@ -23,10 +22,10 @@ deepin-terminal
 gnome-terminal
 
 ## other deepin Packages
+chromium
 dconf-editor
 downgrade
 evince
-chromium
 deepin-trash
 galculator
 gksu
@@ -39,6 +38,7 @@ gvfs-smb
 hexchat
 htop
 libimobiledevice
+manjaro-browser-settings
 manjaro-deepin-settings
 manjaro-settings-manager
 manjaro-welcome
@@ -46,6 +46,7 @@ mlocate
 mousepad
 polkit-gnome
 screenfetch
+smplayer
 sushi
 gufw # firewall
 xarchiver
@@ -77,6 +78,10 @@ manjaro-pulse
 pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
+
+## additional artwork
+vertex-maia-themes
+vertex-maia-icon-theme
 
 ## Package management
 pamac
