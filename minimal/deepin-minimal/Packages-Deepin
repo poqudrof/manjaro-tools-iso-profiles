@@ -4,14 +4,7 @@
 ######################################################
 
 ## deepin packages
-deepin-account-faces
-deepin-control-center
-deepin-daemon
-deepin-desktop
-deepin-dock
 #deepin-gtk-theme
-deepin-launcher
-deepin-manjaro
 deepin-social-sharing
 nautilus-empty-file
 
@@ -44,6 +37,7 @@ manjaro-settings-manager
 manjaro-welcome
 mlocate
 mousepad
+plymouth-theme-manjaro-deepin-circle
 polkit-gnome
 screenfetch
 smplayer
