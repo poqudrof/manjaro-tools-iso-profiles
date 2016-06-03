@@ -30,7 +30,6 @@ gnome-tweak-tool
 gnome-weather
 nautilus-sendto
 rygel
-firewalld # firewall
 #setup gui
 gnome-initial-setup
 
@@ -42,8 +41,6 @@ gnome-terminal
 ## Applications
 #our desktop settings
 sonar-gnome-settings
-firefox-theme-adwaita
-#gimp
 #gvfs packages
 gvfs-google #google drive backend
 gvfs-goa #gnome online accounts (goa) backend
@@ -59,13 +56,9 @@ evolution-ews
 
 #samba file sharing support
 nautilus-share
-
-
 #standard remote desktop software
 vinagre
 vino
-
-
 #gnome shell extensions
 gnome-shell-extension-mediaplayer #extension that adds media controlls to the top bar when songs and videos are playing
 gnome-shell-extension-openweather #a shell extension which adds weather forecast support to the top bar

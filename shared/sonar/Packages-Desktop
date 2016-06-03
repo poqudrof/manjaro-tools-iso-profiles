@@ -68,8 +68,6 @@ pulseaudio-xen
 #Sound theme support
 sound-theme-freedesktop
 sonar-sound-theme
-
-
 ## Printing
 manjaro-printer
 python-pysmbc #for windows shared printers
@@ -381,9 +379,13 @@ subversion
 yaourt
 
 #remote access software, libraries only
-
 freerdp
 libvncserver
 x2goserver
 x2goclient
 nxproxy
+#standard scheduling software
+gnome-schedule
+#downgrade utility
+downgrade
+
