@@ -46,6 +46,7 @@ xorg-xprop
 arandr
 clipit
 dfc
+epdfview
 gcolor2
 gksu
 gnome-vfs
@@ -69,8 +70,6 @@ palemoon-bin
 perl-file-mimeinfo
 pcmanfm
 pinta
-qpdfview-djvu-plugin
-qpdfview-ps-plugin
 poppler-data # CKJ support for pdf
 open-fuse-iso
 sbxkb
