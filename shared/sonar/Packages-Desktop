@@ -389,3 +389,8 @@ gnome-schedule
 #downgrade utility
 downgrade
 
+#vdpau drivers
+mesa-vdpau
+libva-intel-driver
+libva-vdpau
+
