@@ -73,4 +73,3 @@ pangox-compat
 ## VMWare Support
 open-vm-tools
 xf86-input-vmmouse
-xf86-input-libinput #libinput xorg driver
