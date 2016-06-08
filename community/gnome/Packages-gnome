@@ -64,6 +64,9 @@ networkmanager-vpnc
 
 ## Applications
 firefox
+thunderbird
+uget
+transmission-gtk
 manjaro-browser-settings
 gksu
 gparted
