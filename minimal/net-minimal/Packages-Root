@@ -147,8 +147,14 @@ zd1211-firmware
 ## ucode for new cpus
 intel-ucode
 
+## Network
 >openrc networkmanager-openrc
 >systemd networkmanager
 >openrc syslog-ng-openrc
 >systemd syslog-ng
 >openrc cronjobs
+
+## Network Support
+KERNEL-broadcom-wl
+KERNEL-rt3562sta
+KERNEL-r8168
