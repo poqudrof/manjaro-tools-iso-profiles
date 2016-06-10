@@ -57,7 +57,8 @@ user-manager
 plasma5-themes-maia
 gnome-icon-theme
 sddm-maia-theme
->systemd plymouth-theme-manjaro-elegant
+#>systemd plymouth-dev
+#>systemd plymouth-theme-manjaro-elegant
 
 ## GTK Themes
 breeze-gtk
