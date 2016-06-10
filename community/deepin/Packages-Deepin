@@ -45,7 +45,6 @@ manjaro-settings-manager-notifier
 manjaro-welcome
 mlocate
 mousepad
-plymouth-theme-manjaro-deepin-circle
 polkit-gnome
 screenfetch
 smplayer
@@ -85,6 +84,10 @@ pulseaudio-zeroconf
 ## Package management
 pamac
 yaourt
+
+## Artwork
+adwaita-manjaro-themes
+plymouth-theme-manjaro-deepin-circle
 
 ## Games
 deepin-game
