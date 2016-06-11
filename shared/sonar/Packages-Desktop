@@ -289,7 +289,6 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
-java-access-bridge #for java accessibility
 dasher #on screen keyboard
 ibus #input method support
 ibus-table #needed by some input methods
