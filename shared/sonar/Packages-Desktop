@@ -289,7 +289,7 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
-dasher #on screen keyboard
+caribou #on screen keyboard
 ibus #input method support
 ibus-table #needed by some input methods
 ibus-table-extraphrase #extra table phrases, also needed by a few #input methods
