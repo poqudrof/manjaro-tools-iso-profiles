@@ -74,6 +74,7 @@ poppler-data # CKJ support for pdf
 open-fuse-iso
 sbxkb
 speedtest-cli
+transmission-gtk
 viewnior
 vlc
 w3m
