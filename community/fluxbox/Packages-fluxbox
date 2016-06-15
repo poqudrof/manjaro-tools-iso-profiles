@@ -69,6 +69,7 @@ poppler-data # CKJ support for pdf
 sbxkb
 scrot
 simple-scan
+transmission-gtk
 tree
 vi
 vlc
