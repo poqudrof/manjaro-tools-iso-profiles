@@ -76,6 +76,7 @@ manjaro-firmware
 manjaro-release-dev
 memtest86+
 mkinitcpio-nfs-utils
+mkinitcpio-openswap # needed to be in rootfs by Calamares LUKS support
 >multilib lib32-mesa  # Optional dependency for mhwd
 os-prober
 pkg-config
