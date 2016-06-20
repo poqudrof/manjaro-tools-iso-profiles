@@ -111,6 +111,8 @@ id3v2
 #audio metadata repair
 easytag
 
+#standard terminal emulator
+gnome-terminal
 #blu ray decryption
 libbluray
 libaacs
