@@ -81,6 +81,7 @@ blueman
 >systemd netctl
 >systemd networkmanager
 >openrc networkmanager-openrc
+>openrc networkmanager-consolekit
 network-manager-applet
 >openrc networkmanager-consolekit
 networkmanager-dispatcher-ntpd
