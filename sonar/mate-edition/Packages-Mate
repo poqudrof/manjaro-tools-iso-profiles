@@ -38,4 +38,6 @@ mate-screensaver
 mate-screensaver-hacks #additional screensavers
 rss-glx #really slick screensavers
 
+#applet for managing networks
+network-manager-applet
 
