@@ -44,7 +44,7 @@ GRUB_COLOR_NORMAL="light-gray/black"
 GRUB_COLOR_HIGHLIGHT="green/black"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
-GRUB_BACKGROUND="/usr/share/grub/sonar.jpg"
+GRUB_BACKGROUND="/usr/share/grub/sonar.png"
 #GRUB_THEME="/boot/grub/themes/Manjaro-Default/theme.txt"
 
 
