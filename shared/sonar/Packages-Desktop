@@ -393,5 +393,5 @@ downgrade
 
 
 #alternative efi boot loader for dual booting with windows
-refined-efi
+refind-efi
 
