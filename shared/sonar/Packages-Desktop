@@ -74,6 +74,10 @@ python-pysmbc #for windows shared printers
 #driver packages, how the hell did I miss these
 foomatic-db
 foomatic-db-nonfree
+foomatic-db-ppds
+foomatic-db-nonfree-ppds
+foomatic-db-gutenprint
+foomatic-db-gutenprint-ppds
 bluez-cups #for bluetooth printers
 
 #ms word and rtf extractors
