@@ -1,3 +1,4 @@
+printing
 ## Artwork
 sonar-backgrounds
 manjaro-backgrounds
@@ -78,6 +79,8 @@ foomatic-db-ppds
 foomatic-db-nonfree-ppds
 foomatic-db-gutenprint
 foomatic-db-gutenprint-ppds
+gutenprint
+c2esp #kodak easy share and hero printers
 bluez-cups #for bluetooth printers
 
 #ms word and rtf extractors
