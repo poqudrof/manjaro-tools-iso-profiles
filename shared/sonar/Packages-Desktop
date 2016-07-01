@@ -347,7 +347,7 @@ f2fs-tools
 testdisk #command line application for partition recovery
 
 # sonar docs and special desktop launchers
-sonar-common
+#sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
