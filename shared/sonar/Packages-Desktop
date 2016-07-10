@@ -400,4 +400,7 @@ downgrade
 
 #alternative efi boot loader for dual booting with windows
 refind-efi
+#extra xorg packages
+xorg-xbacklight
+xorg-xinput
 
