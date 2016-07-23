@@ -48,7 +48,7 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 light-locker
 manjaro-settings-manager-notifier
-manjaro-features-dev
+#manjaro-features-dev
 manjaro-welcome
 midori
 mousepad
@@ -70,5 +70,5 @@ networkmanager-dispatcher-ntpd
 
 ## Artwork
 #>systemd plymouth-dev
-#>systemd plymouth-theme-manjaro-elegant
+>systemd plymouth-theme-manjaro-elegant
 manjaro-backgrounds
