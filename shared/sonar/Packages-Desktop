@@ -74,6 +74,12 @@ python-pysmbc #for windows shared printers
 #driver packages, how the hell did I miss these
 foomatic-db
 foomatic-db-nonfree
+foomatic-db-ppds
+foomatic-db-nonfree-ppds
+foomatic-db-gutenprint
+foomatic-db-gutenprint-ppds
+gutenprint
+c2esp #kodak easy share and hero printers
 bluez-cups #for bluetooth printers
 
 #ms word and rtf extractors
@@ -111,6 +117,8 @@ id3v2
 #audio metadata repair
 easytag
 
+#standard terminal emulator
+gnome-terminal
 #blu ray decryption
 libbluray
 libaacs
@@ -289,8 +297,7 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
-java-access-bridge #for java accessibility
-dasher #on screen keyboard
+caribou #on screen keyboard
 ibus #input method support
 ibus-table #needed by some input methods
 ibus-table-extraphrase #extra table phrases, also needed by a few #input methods
@@ -303,7 +310,7 @@ plymouth-theme-sonar-elegant
 
 #extra archive formats
 unace #license questionable, will remove if not open source
-unarj #license questionable, will remove if not open source
+arj #license questionable, will remove if not open source
 p7zip
 cabextract
 cpio
@@ -340,7 +347,7 @@ f2fs-tools
 testdisk #command line application for partition recovery
 
 # sonar docs and special desktop launchers
-sonar-common
+#sonar-common
 #extra kernel modules
 KERNEL-acpi_call
 KERNEL-tp_smapi
@@ -385,9 +392,16 @@ libvncserver
 x2goserver
 x2goclient
 nxproxy
+xorg-server-xephyr #xdmcp support for remote desktop software
 #standard scheduling software
 gnome-schedule
 #downgrade utility
 downgrade
 
+
+#alternative efi boot loader for dual booting with windows
+refind-efi
+#extra xorg packages
+xorg-xbacklight
+xorg-xinput
 

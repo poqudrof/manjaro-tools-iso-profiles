@@ -6,6 +6,7 @@
 lxqt
 
 >openrc networkmanager-openrc
+>openrc networkmanager-consolekit
 >systemd networkmanager
 >openrc syslog-ng-openrc
 >systemd syslog-ng

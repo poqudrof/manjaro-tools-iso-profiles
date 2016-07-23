@@ -46,10 +46,13 @@ manjaro-welcome
 mlocate
 mousepad
 polkit-gnome
+qt5ct
+qt5-styleplugins
 screenfetch
 smplayer
 sushi
 gufw # firewall
+transmission-gtk
 xarchiver
 xfburn
 

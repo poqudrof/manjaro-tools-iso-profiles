@@ -23,6 +23,14 @@ manjaro-tools-iso-profiles
 # use pxe
 # pxe_boot="true"
 
+################ torrent ################
+
+# the torrent tracker url
+# tracker_url=""
+
+# Piece size, 2^n
+# piece_size=21
+
 ################ install ################
 
 # possible values: grub;systemd-boot
