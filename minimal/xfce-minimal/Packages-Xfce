@@ -48,7 +48,7 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 light-locker
 manjaro-settings-manager-notifier
-#manjaro-features-dev
+manjaro-features-pre
 manjaro-welcome
 midori
 mousepad
