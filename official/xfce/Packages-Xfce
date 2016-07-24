@@ -97,6 +97,7 @@ poppler-data  # CKJ support for pdf
 thunderbird
 viewnior
 vlc
+qt4 # needed for vlc
 xfburn
 #xnoise
 xorg-xkill
