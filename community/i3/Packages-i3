@@ -3,7 +3,6 @@
 ######################################################
 
 ## i3 Packages
-plymouth-theme-manjaro-elegant
 accountsservice
 bmenu
 compton
