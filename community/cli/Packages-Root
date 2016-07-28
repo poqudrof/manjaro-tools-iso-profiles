@@ -48,13 +48,12 @@ pcmciautils
 perl
 procps-ng
 psmisc
-# reiserfsprogs
+reiserfsprogs
 s-nail
 sed
 shadow
 sysfsutils
 >openrc eudev-systemdcompat
->openrc netifrc
 >systemd systemd-sysvcompat
 tar
 texinfo
@@ -149,9 +148,10 @@ intel-ucode
 
 ## Network (from Packages-Net-minimal)
 >systemd netctl
->systemd networkmanager
->openrc networkmanager-openrc
-networkmanager-dispatcher-ntpd
+>openrc netifrc
+#>systemd networkmanager
+#>openrc networkmanager-openrc
+#networkmanager-dispatcher-ntpd
 >systemd openresolv
 >openrc cronjobs
 >openrc syslog-ng-openrc
@@ -166,5 +166,5 @@ KERNEL-r8168
 >openrc ntp-openrc
 
 ## Misc
->openrc pm-utils
-manjaro-hotfixes
+#>openrc pm-utils
+#manjaro-hotfixes
