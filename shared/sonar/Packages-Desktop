@@ -186,10 +186,14 @@ sonar-isolinux
 #standard applications
 firefox
 thunderbird
+#command line email client
+alpine
 bleachbit
 
 #standard instant messenging software
 pidgin
+#command line IM client
+finch
 
 #extra plugins for pidgin
 #purple-plugin-pack
