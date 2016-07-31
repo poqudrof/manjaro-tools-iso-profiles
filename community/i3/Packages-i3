@@ -27,6 +27,8 @@ mlocate
 morc_menu
 p7zip
 polkit-gnome
+qt5ct
+qt5-styleplugins
 ranger
 screenfetch
 >openrc timeset
@@ -62,6 +64,7 @@ isousb
 libgpod # iPhone/Pod connectivity
 manjaro-browser-settings
 manjaro-welcome
+manjaro-features-pre
 # eventually add upower-pm-utils; it seems to depend on DE features; take what works default is upower
 # >openrc upower-pm-utils
 upower
@@ -77,7 +80,7 @@ sbxkb
 speedtest-cli
 transmission-gtk
 viewnior
-vlc
+vlc-nightly
 w3m
 xfburn
 xterm

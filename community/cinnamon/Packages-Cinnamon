@@ -19,6 +19,8 @@ nemo-preview
 nemo-python
 nemo-share
 pragha # musicplayer
+qt5ct
+qt5-styleplugins
 screenfetch
 transmission-gtk
 xdg-user-dirs-gtk
@@ -62,6 +64,7 @@ thunderbird
 ## Extra
 npapi-vlc
 pidgin-libnotify
+vlc-nightly
 
 ## Artwork
 cinnamon-wallpapers

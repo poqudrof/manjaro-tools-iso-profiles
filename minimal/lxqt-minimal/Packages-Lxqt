@@ -22,10 +22,7 @@ octopi-repoeditor
 qpdfview
 compton
 
-# bug in pcmanfm with kde apps
-#kwrite
-
-l3afpad
+kwrite
 xarchiver
 network-manager-applet
 lxtask-gtk3
@@ -45,8 +42,8 @@ tint2
 ###Artwork###
 #cantarell-fonts
 xcursor-breeze
-maia-icon-theme
-maia-wallpaper
+andromeda-icon-theme
+andromeda-wallpaper
 vertex-maia-themes
 
 manjaro-settings-manager

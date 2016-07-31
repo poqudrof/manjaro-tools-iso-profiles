@@ -186,10 +186,14 @@ sonar-isolinux
 #standard applications
 firefox
 thunderbird
+#command line email client
+alpine
 bleachbit
 
 #standard instant messenging software
 pidgin
+#command line IM client
+finch
 
 #extra plugins for pidgin
 #purple-plugin-pack
@@ -365,6 +369,8 @@ xcursor-breeze
 xcursor-maia
 #tintin alteraeon soundpack
 tintin-alteraeon
+#z machine interpreter
+frotz
 
 #standard file sharing software
 syncthing
@@ -392,6 +398,7 @@ libvncserver
 x2goserver
 x2goclient
 nxproxy
+xorg-server-xephyr #xdmcp support for remote desktop software
 #standard scheduling software
 gnome-schedule
 #downgrade utility
