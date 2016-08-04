@@ -20,6 +20,7 @@ chromium
 dconf-editor
 downgrade
 evince
+gedit
 poppler-data # CKJ support for pdf
 evolution
 galculator
@@ -45,7 +46,6 @@ manjaro-features-pre
 manjaro-settings-manager-notifier
 manjaro-welcome
 mlocate
-mousepad
 polkit-gnome
 qt5ct
 qt5-styleplugins
