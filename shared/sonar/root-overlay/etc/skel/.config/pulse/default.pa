@@ -1,2 +1,5 @@
 .include /etc/pulse/default.pa
+#enable console speech
+load-module module-native-protocol-unix auth-anonymous=1 socket=/tmp/pulse.sock
+#switch to newly plugged in sound devices
 load-module module-switch-on-connect
