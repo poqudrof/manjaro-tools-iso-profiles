@@ -335,7 +335,7 @@ libcanberra-gstreamer
 pitivi
  frei0r-plugins
 #standard accounting software
-gnucash #main program
+homebank #main program
 perl-date-manip #for stock quotes
 perl-finance-quote #for stock quotes
 #standard full disk encryption software
