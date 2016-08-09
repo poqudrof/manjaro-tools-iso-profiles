@@ -150,11 +150,6 @@ vorbis-tools
 #opus tools and libs
 opus-tools
 opusfile
-
-#advanced sound editing
-audacity
-jack2 #preferred audio input/output, compatible with pulse audio
-
 #Standard  photo manager
 shotwell
 
@@ -331,7 +326,7 @@ clonezilla
 libcanberra
 libcanberra-pulse
 libcanberra-gstreamer
-#standard video editor
+#standard audio and video editor
 pitivi
  frei0r-plugins
 #standard accounting software
