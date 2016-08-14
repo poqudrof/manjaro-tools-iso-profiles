@@ -4,10 +4,10 @@ componentName:  manjaro
 strings:
     productName:         Manjaro Linux
     shortProductName:    Manjaro
-    version:             16.08-pre3
-    shortVersion:        16.08-pre3
-    versionedName:       Manjaro Linux 16.08-pre3 "Ellada"
-    shortVersionedName:  Manjaro 16.08-pre3
+    version:             16.08-pre4
+    shortVersion:        16.08-pre4
+    versionedName:       Manjaro Linux 16.08-pre4 "Ellada"
+    shortVersionedName:  Manjaro 16.08-pre4
     bootloaderEntryName: Manjaro
 
 images:

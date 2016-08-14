@@ -3,10 +3,6 @@
 ######################################################
 
 ## Artwork
-xcursor-maia
-vertex-maia-themes
-vertex-maia-icon-theme
-maia-wallpaper
 #libgnomeui
 gconf
 gnome-themes-standard
@@ -61,7 +57,7 @@ gnome-keyring
 manjaro-settings-manager
 manjaro-welcome
 thunderbird
-vlc
+vlc-nightly
 pragha
 #gufw
 accountsservice
