@@ -150,11 +150,6 @@ vorbis-tools
 #opus tools and libs
 opus-tools
 opusfile
-
-#advanced sound editing
-audacity
-jack2 #preferred audio input/output, compatible with pulse audio
-
 #Standard  photo manager
 shotwell
 
@@ -170,7 +165,7 @@ ocrdesktop
 #standard audio and video converters
 transmageddon  #for video formats
 soundconverter #for audio formats and video if all you want is the #audio
-
+devede #for making dvd's that play in dvd players
 ## Package management
 pamac
 packagekit #for installing software in the help browser
@@ -187,7 +182,7 @@ sonar-isolinux
 firefox
 thunderbird
 #command line email client
-alpine
+#alpine
 bleachbit
 
 #standard instant messenging software
@@ -288,7 +283,7 @@ fsarchiver
 rsync
 parted
 bash-completion
-
+arch-install-scripts
 #accessibility packages
 espeak
 orca
@@ -331,7 +326,7 @@ clonezilla
 libcanberra
 libcanberra-pulse
 libcanberra-gstreamer
-#standard video editor
+#standard audio and video editor
 pitivi
  frei0r-plugins
 #standard accounting software
