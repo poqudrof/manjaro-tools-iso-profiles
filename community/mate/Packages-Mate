@@ -18,8 +18,8 @@ mate
 mate-extra
 galculator-gtk2
 xterm
-mate-accountsdialog
-mate-disk-utility
+#mate-accountsdialog #AUR
+#mate-disk-utility #AUR
 #manjaro
 manjaro-documentation
 manjaro-mate-settings
