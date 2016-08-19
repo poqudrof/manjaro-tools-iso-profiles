@@ -4,8 +4,9 @@
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 #gdm
-mate
-mate-extra
+mate-gtk3
+mate-extra-gtk3
+mate-desktop-gtk3
 plymouth-theme-sonar-elegant
 maia-wallpaper
 manjaro-artwork
@@ -36,8 +37,8 @@ mate-tweak
 #standard remote desktop software
 remmina
 #screensavers
-mate-screensaver
-mate-screensaver-hacks #additional screensavers
+mate-screensaver-gtk3
+#mate-screensaver-hacks #additional screensavers
 rss-glx #really slick screensavers
 
 #applet for managing networks
