@@ -1,1 +1,8 @@
-../../shared/sonar/Packages-Live
+>openrc manjaro-live-openrc
+>systemd manjaro-live-systemd
+manjaro-live-skel		# live skel
+#calamares			# new GUI installer of manjaro
+calamares-dev			# new GUI installer of manjaro - kpmcore
+#calamares-exp			# new GUI installer of manjaro - experimental version
+#our installer branding
+sonar-calamares-branding
