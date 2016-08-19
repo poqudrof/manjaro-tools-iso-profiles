@@ -97,8 +97,8 @@ sane
 sane-gt68xx-firmware
 
 gnome-disk-utility
-udiskie
-udisks
+#udiskie
+#udisks
 udisks2
 #standard media playing software
 audacious #for music management.
