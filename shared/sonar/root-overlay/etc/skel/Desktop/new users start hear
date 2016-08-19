@@ -1,8 +1,0 @@
-﻿New users take note
-
-The installer has a bug that will cause it to freeze at the keyboard layout screen. To avoid this, make sure you don't connect to the internet before you start the installer. If you use wi fi, do not set it up or disconnect from it before starting the installer. If you use an ethernet cable, unplug it before starting the installer. This is only temporary until we get our new improved installer, coming in the next release of sonar.  Additionally, on the language selection screen, use the arrow keys to select your language. Once you land on the one you want, press control+tab to move past the language list, then tab over to the "forward" button. Press enter on it to continue. From there, follow the prompts to install Sonar.
-
-Thank you all for your patience
-
-The Sonar GNU Linux development team
-
