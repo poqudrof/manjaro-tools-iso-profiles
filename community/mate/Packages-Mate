@@ -13,8 +13,12 @@ dconf-editor
 mate
 mate-extra
 galculator-gtk2
+## remove these ^^ and uncomment the following for gtk3 version
+#mate-menu
+#mate-gtk3
+#mate-extra-gtk3
+#galculator
 xterm
-#manjaro
 manjaro-documentation
 manjaro-mate-settings
 ## Network
