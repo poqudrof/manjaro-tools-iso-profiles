@@ -14,8 +14,8 @@ manjaro-tools-iso-profiles
 # use multilib packages; x86_64 only
 # multilib="true"
 
-# nonfree xorg drivers
-# nonfree_xorg="true"
+# nonfree mhwd drivers
+# nonfree_mhwd="true"
 
 # use plymouth
 # plymouth_boot="true"
