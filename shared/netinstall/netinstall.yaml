@@ -222,6 +222,7 @@
         - pamac
         - open-fuse-iso
         - manjaro-xfce-minimal-settings
+        - lightdm-gtk-greeter
 
 - name: 'lxde-gtk3'
   description: 'LXDE gtk3 Desktop'
@@ -240,6 +241,7 @@
        - lxterminal-gtk3
        - openbox
        - pcmanfm-gtk3
+       - lxdm
 
 - name: 'mate-gtk3'
   description: 'Mate gtk3 Desktop'
@@ -281,6 +283,7 @@
        - mate-utils-gtk3
        - mozo
        - pluma-gtk3
+       - mdm
 
 - name: 'gnome'
   description: 'Gnome Desktop'
@@ -419,4 +422,5 @@
        - deepin-music
        - deepin-screenshot
        - deepin-terminal
+       - lightdm-gtk-greeter
 
