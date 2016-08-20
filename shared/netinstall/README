@@ -1,0 +1,2 @@
+Do not link or use the netinstall.yaml file in your profile!
+These will be use by calamares in netinstall mode from the url.
