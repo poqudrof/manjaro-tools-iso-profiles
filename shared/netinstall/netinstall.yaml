@@ -424,3 +424,17 @@
        - deepin-terminal
        - lightdm-gtk-greeter
 
+- name: 'i3'
+  description: 'i3 Desktop'
+  packages:
+       - i3-wm
+       - i3lock
+       - i3status
+       - artwork-i3
+       - conky-i3
+       - dmenu-manjaro
+       - i3-help
+       - i3exit
+       - i3status-manjaro
+       - manjaro-i3-settings
+       - lightdm-gtk-greeter
