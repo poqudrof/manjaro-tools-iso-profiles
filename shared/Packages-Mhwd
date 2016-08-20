@@ -57,7 +57,8 @@ KERNEL-r8168
 >nonfree_multilib lib32-nvidia-340xx-utils
 
 ## Virtualbox Drivers
-virtualbox-guest-utils
+>openrc virtualbox-guest-utils-openrc
+>systemd virtualbox-guest-utils
 KERNEL-virtualbox-guest-modules
 
 ## Xorg Packages
