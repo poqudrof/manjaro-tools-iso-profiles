@@ -328,9 +328,11 @@ clonezilla
 libcanberra
 libcanberra-pulse
 libcanberra-gstreamer
-#standard audio and video editor
+#standard  video editor
 pitivi
  frei0r-plugins
+#standard audio editor
+audacity
 #standard accounting software
 gnucash #main program
 perl-date-manip #for stock quotes
