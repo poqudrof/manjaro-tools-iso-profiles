@@ -41,7 +41,7 @@ load_pkgs(){
 
 	local _init _init_rm _multi _nonfree_default _nonfree_multi _arch _arch_rm _nonfree_i686 _nonfree_x86_64
 
-	if [[ ${initsys} == 'openrc' ]];then
+	if [[ $3 == 'openrc' ]];then
 		_init="s|>openrc||g"
 		_init_rm="s|>systemd.*||g"
 	else
@@ -166,7 +166,7 @@ find_profile
 for a in "i686" "x86_64";do
 	for i in "systemd" "openrc";do
 		load_profile_config "${profile_dir}/profile.conf"
-		load_pkgs "${packages_custom}" "$a"
+		load_pkgs "${packages_custom}" "$a" "$i"
 		write_profile_yaml "$a" "$i"
 	done
 done
