@@ -128,16 +128,30 @@ get_edition(){
 }
 
 write_profile_yaml(){
-	[[ ! -d ${run_dir}/shared/netinstall/${profile} ]] && mkdir ${run_dir}/shared/netinstall/${profile}
-	out=${run_dir}/shared/netinstall/${profile}/$1-$2.yaml
-
-	echo "- name: '${profile}-$1-$2'" > $out
-	echo "  description: '${profile^^} Desktop'" >> $out
-	echo "  packages:" >> $out
-	for p in ${packages[@]};do
-		echo "       - $p" >> $out
-	done
+	local path=${run_dir}/shared/netinstall/${profile} yaml
+	[[ ! -d ${path} ]] && mkdir ${args[*]} ${path}
+	yaml=${path}/$1-$2.yaml
+	if ${test_mode};then
+		echo "- name: '${profile}-$1-$2'"
+		echo "  description: '${profile^^} Desktop'"
+		echo "  packages:"
+		for p in ${packages[@]};do
+			echo "       - $p"
+		done
+		echo ""
+	else
+		echo "- name: '${profile}-$1-$2'" > $yaml
+		echo "  description: '${profile^^} Desktop'" >> $yaml
+		echo "  packages:" >> $yaml
+		for p in ${packages[@]};do
+			echo "       - $p" >> $yaml
+		done
+	fi
 }
+
+args=()
+test_mode=true
+${test_mode} && args+=(-v)
 
 run_dir=../..
 
