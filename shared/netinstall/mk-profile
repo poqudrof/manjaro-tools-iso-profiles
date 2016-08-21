@@ -134,6 +134,8 @@ write_profile_yaml(){
 	if ${test_mode};then
 		echo "- name: '${profile}-$1-$2'"
 		echo "  description: '${profile^^} Desktop'"
+		echo "  selected: false"
+		echo "  hidden: false"
 		echo "  packages:"
 		for p in ${packages[@]};do
 			echo "       - $p"
@@ -142,6 +144,8 @@ write_profile_yaml(){
 	else
 		echo "- name: '${profile}-$1-$2'" > $yaml
 		echo "  description: '${profile^^} Desktop'" >> $yaml
+		echo "  selected: false" >> $yaml
+		echo "  hidden: false" >> $yaml
 		echo "  packages:" >> $yaml
 		for p in ${packages[@]};do
 			echo "       - $p" >> $yaml

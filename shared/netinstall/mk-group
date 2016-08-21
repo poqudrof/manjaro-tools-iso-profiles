@@ -2,23 +2,27 @@
 
 # usage: sh mk-yaml.sh <pacman group name>
 
-pkgs=$(pacman -Sgq $1)
-out=$1.yaml
+packages=$(pacman -Sgq $1)
+yaml=$1.yaml
 test_mode=true
 
 if ${test_mode};then
 	echo "- name: '$1'"
 	echo "  description: '$1 Desktop'"
+	echo "  selected: false"
+		echo "  hidden: false"
 	echo "  packages:"
-	for p in ${pkgs[@]};do
-		echo "       - $p"
+	for pkg in ${packages[@]};do
+		echo "       - $pkg"
 	done
 	echo ""
 else
-	echo "- name: '$1'" > $out
-	echo "  description: '$1 Desktop'" >> $out
-	echo "  packages:" >> $out
-	for p in ${pkgs[@]};do
-		echo "       - $p" >> $out
+	echo "- name: '$1'" > $yaml
+	echo "  description: '$1 Desktop'" >> $yaml
+	echo "  selected: false" >> $yaml
+	echo "  hidden: false" >> $yaml
+	echo "  packages:" >> $yaml
+	for pkg in ${packages[@]};do
+		echo "       - $pkg" >> $yaml
 	done
 fi
