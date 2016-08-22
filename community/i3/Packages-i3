@@ -5,10 +5,7 @@
 ## i3 Packages
 accountsservice
 bmenu
-compton
-conky-i3
 downgrade
-dunst
 ffmpeg
 ffmpegthumbnailer
 flashplugin
@@ -18,7 +15,6 @@ gufw # firewall
 >openrc ufw-openrc
 hexchat
 htop
-i3-scrot
 lightdm-gtk-greeter-settings
 lm_sensors
 lxappearance
@@ -39,7 +35,7 @@ urxvt-perls
 vi
 vim
 wmutils
-xarchiver-gtk2
+xarchiver
 xautolock
 xdotool
 xfce4-power-manager
@@ -106,10 +102,6 @@ networkmanager-vpnc
 >systemd syslog-ng
 json-c			# for syslog-ng
 >openrc syslog-ng-openrc
-
-## Artwork
-breeze-maia-icon-themes
-vertex-maia-themes
 
 ## Audio Packages
 >openrc alsa-utils-openrc
