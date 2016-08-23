@@ -89,7 +89,8 @@ networkmanager-dispatcher-sshd
 bash-completion
 
 #accessibility packages
-espeakup
+>systemd espeakup
+>openrc espeakup-openrc
 orca
 >systemd brltty
 >openrc brltty-openrc
