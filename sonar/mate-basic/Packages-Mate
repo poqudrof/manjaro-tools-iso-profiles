@@ -8,10 +8,9 @@ mate-desktop-gtk3
 plymouth-theme-sonar-elegant
 maia-wallpaper
 manjaro-artwork
-mate-user-guide #doh!
-sonar-mate-settings
 mate-tweak
 mate-screensaver-gtk3
 network-manager-applet
 sonar-mate-panel-layout
-
+dconf-editor
+sonar-mate-settings

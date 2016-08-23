@@ -90,7 +90,6 @@ bash-completion
 
 #accessibility packages
 espeakup
-gespeaker
 orca
 >systemd brltty
 >openrc brltty-openrc
@@ -102,6 +101,9 @@ ibus-table
 ibus-table-extraphrase
 mousetweaks
 python-yaml
+vorbis-tools
+ocrdesktop
+mumble
 
 #xcursors
 xcursor-simpleandsoft
@@ -110,8 +112,16 @@ xcursor-chameleon-pearl
 xcursor-breeze
 xcursor-maia
 
+bluez-firmware
+bluez-plugins
+bluez-hid2hci
+bluez-utils
+
 pulseaudio-bluetooth
 pulseaudio-equalizer
-pulseaudio-gconf
+extra/pulseaudio-alsa
 pulseaudio-zeroconf
 pulseaudio-lirc
+pavucontrol
+pulseaudio-ctl
+pulseaudio-gconf
