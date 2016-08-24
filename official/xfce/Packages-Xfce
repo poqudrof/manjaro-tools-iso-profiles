@@ -180,3 +180,29 @@ yaourt
 
 ## Documentation
 manjaro-documentation
+
+
+## PapARt
+
+emacs
+git
+maven
+apache-ant
+netbeans
+guvcview
+cmake
+opencv
+inkscape
+jdk8-openjdk 
+xf86-video-intel
+mesa-libgl
+lib32-mesa-libgl
+  
+### AUR packages
+## librealsense
+libfreenect-git
+## google-chrome
+## v4l2loopback-dkms TO install
+## Freenect2 !
+
+
