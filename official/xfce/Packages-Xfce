@@ -184,6 +184,8 @@ manjaro-documentation
 
 ## PapARt
 
+KERNEL-headers
+
 emacs
 git
 maven
@@ -192,15 +194,20 @@ netbeans
 guvcview
 cmake
 opencv
+filezilla
 inkscape
-jdk8-openjdk 
-xf86-video-intel
+jruby
+
+xf86-video-intel  ## Intel drivers
 mesa-libgl
 lib32-mesa-libgl
-  
-### AUR packages
+
+# realsense
+glfw-x11
+
+### AUR packages - removed for now downloaded/compiled later
 ## librealsense
-libfreenect-git
+## libfreenect-git
 ## google-chrome
 ## v4l2loopback-dkms TO install
 ## Freenect2 !

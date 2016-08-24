@@ -4,12 +4,12 @@
 ## If processing is not installed
 if [ ! -d processing ]; then
    echo "Downloading Processing..."
-   wget https://github.com/poqudrof/processing/releases/download/3.1.2-papart/linux.zip -o processing.zip
+   wget https://github.com/poqudrof/processing/releases/download/3.1.2-papart/linux.zip -O processing.zip
 
    echo "Install Processing"
-   unzip linux.zip
+   unzip processing.zip
    mv work processing
-   rm linux.zip
+   rm processing.zip
 fi
 
 
